@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Flipped Classroom Model: A Comprehensive Introduction"
-date: 2024-09-12T10:26:38.488Z
-updated: 2024-09-15T16:38:54.441Z
+date: 2024-09-14T17:09:26.926Z
+updated: 2024-09-21T10:27:44.739Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1c589761259a11d60427bc88.jpg
@@ -184,13 +184,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -229,6 +222,13 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -242,6 +242,13 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -293,13 +300,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -409,6 +409,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -424,19 +431,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -486,6 +480,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -494,6 +495,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -537,20 +545,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -586,18 +580,16 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-complete-guide-to-morphvox-voice-changer/"><u>[New] Complete Guide to MorphVOX Voice Changer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-direct-youtube-share-on-snapchat-tips-for-2024/"><u>[New] Direct YouTube, Share on Snapchat Tips for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/dvd-chapters/"><u>DVD Chaptersを整理・編集して簡単な視聴体験へ</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/easy-tutorial-on-integrating-gif-images-into-powerpoint-slides-for-engaging-presentations/"><u>Easy Tutorial on Integrating GIF Images Into PowerPoint Slides for Engaging Presentations</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/effortless-video-editing-with-youtube-clip-your-quick-guide-to-trimming-down-videos/"><u>Effortless Video Editing with YouTube Clip - Your Quick Guide to Trimming Down Videos</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/experience-the-beat-find-and-enjoy-number-one-songs-with-leading-5-video-hosting-websites/"><u>Experience the Beat: Find and Enjoy Number One Songs with Leading 5 Video-Hosting Websites</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/funniest-stand-up-specials-on-kodi-top-kodi-plug-ins-for-hilarious-comedy-streams/"><u>Funniest Stand-Up Specials on Kodi - Top Kodi Plug-Ins for Hilarious Comedy Streams</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-5-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT 5 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-remove-tiktok-watermarks-in-seconds-best-online-methods-for-2024/"><u>New Remove TikTok Watermarks in Seconds Best Online Methods for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimal-techniques-recording-console-games-via-pc/"><u>Optimal Techniques Recording Console Games via PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-notetaking-the-mematic-way-for-2024/"><u>Transformative Notetaking The Mematic Way for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-share-screen-on-google-meet-desktop-and-mobile/"><u>[New] 2024 Approved How to Share Screen on Google Meet [Desktop and Mobile]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlock-your-potential-one-thousand-new-likesmonth/"><u>[Updated] In 2024, Unlock Your Potential One Thousand New Likes/Month</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-8-mirrorless-cameras-for-vloggers/"><u>2024 Approved The Ultimate Guide to 8 Mirrorless Cameras for Vloggers</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ampliando-playbacks-os-melhores-7-rippers-de-dvd-para-mac-seguindo-as-tendencias-do-ano-novo/"><u>Ampliando Playbacks: Os Melhores 7 Rippers De DVD Para Mac, Seguindo as Tendências Do Ano Novo</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinematic-speed-top-cameras-for-slow-motion-videography/"><u>Cinematic Speed Top Cameras for Slow Motion Videography</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/conversion-gratuita-de-imagenes-raw-como-cambiar-archivo-cr2-a-formatos-aceptados-online-con-movavi/"><u>Conversión Gratuita De Imágenes RAW: Cómo Cambiar Archivo CR2 a Formatos Aceptados Online Con Movavi</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/downloads-gratuitos-de-transcodificacion-ogv-a-mp4-con-movavi-metodo-rapido-y-seguro/"><u>Downloads Gratuitos De Transcodificación OGV a MP4 Con Movavi - Método Rápido Y Seguro</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/free-online-converter-transform-caf-files-into-mp4-format-with-movavi/"><u>Free Online Converter: Transform CAF Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-huawei-nova-y71-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Huawei Nova Y71</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-a18-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo A18 for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-s17-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo S17 Pro for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

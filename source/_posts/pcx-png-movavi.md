@@ -1,7 +1,7 @@
 ---
 title: 無須註冊即可自動轉換 PCX 為 PNG - 使用 Movavi 轉換器
-date: 2024-09-13T07:20:13.852Z
-updated: 2024-09-16T08:59:36.081Z
+date: 2024-09-18T10:50:49.384Z
+updated: 2024-09-21T11:06:28.112Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e5417264806aa41339dccc8726c59258.jpg
@@ -191,6 +191,13 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
 
 Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完整閱讀該篇指南，請按一下下方的連結。
@@ -204,13 +211,6 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 缺點：
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -244,18 +244,24 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 使用者介面過時且不符合大眾口味
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**XnView**](https://www.xnview.com/en/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
@@ -282,6 +288,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 佈局過於簡單，可能會使初學者困惑
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -314,26 +327,19 @@ Movavi Photo Editor
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 常見問題集
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -437,20 +443,16 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-beginners-bane-the-top-8-youtube-errors-you-shouldnt-commit/"><u>[New] 2024 Approved Beginner's Bane The Top 8 Youtube Errors You Shouldn't Commit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-upward-perspectives-capturing-landscapes-from-your-phone/"><u>[Updated] Upward Perspectives Capturing Landscapes From Your Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-spacebar-issue-on-windows-10/"><u>Fixing a Non-Functional Spacebar Issue on Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-add-titlestext-to-video-on-photos-app-in-windows-10/"><u>How to Add Titles/Text to Video on Photos App in Windows 10</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/imgisowindows/"><u>IMGファイルからISOへの直接変換：Windows上での詳細ガイド</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-smart-8-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Smart 8 FRP?</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/mastering-the-art-of-adding-external-subtitles-srt-to-your-mp4-videos-easily-and-quickly/"><u>Mastering the Art of Adding External Subtitles (SRT) to Your MP4 Videos Easily and Quickly!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/mastering-video-editing-in-microsoft-powerpoint-exporting-downloaded-footage-to-desktop/"><u>Mastering Video Editing in Microsoft PowerPoint - Exporting Downloaded Footage to Desktop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-twitter-video-converters-guide-for-2024/"><u>Premier Twitter Video Converters Guide for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s23-fe-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S23 FE with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-configuring-the-aeon-mq-9-theme-in-your-kodi-interface/"><u>Step-by-Step Guide: Configuring the Aeon MQ #9 Theme in Your Kodi Interface</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/the-top-five-no-cost-m4a-file-editors-for-pc-and-mac-users-explore-online-options-too/"><u>The Top Five No-Cost M4A File Editors for PC and Mac Users: Explore Online Options Too!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/troubleshooting-and-repairing-video-problems-on-your-kindle-fire-a-step-by-step-guide/"><u>Troubleshooting and Repairing Video Problems on Your Kindle Fire: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-wealth-wave-on-your-screen-monetizing-as-a-streamer/"><u>[New] 2024 Approved Wealth Wave on Your Screen Monetizing as a Streamer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-dynamic-presentations-how-to-integrate-screens-into-online-spaces/"><u>[New] In 2024, Dynamic Presentations How to Integrate Screens Into Online Spaces</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-fast-track-uncovering-erased-reddit-conversations/"><u>[Updated] Fast Track Uncovering Erased Reddit Conversations</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/blu-ray-vs-dvd-a-comprehensive-guide-to-choosing-your-optical-media/"><u>Blu-Ray Vs. DVD - A Comprehensive Guide to Choosing Your Optical Media</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comparative-insights-how-nero-platinum-stacks-up-against-the-movavi-video-suite/"><u>Comparative Insights: How Nero Platinum Stacks Up Against the Movavi Video Suite</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/gratis-online-converter-von-wma-nach-avi-movavi/"><u>Gratis Online Converter Von WMA Nach Avi - Movavi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-se-2020-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone SE (2020) to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pros-of-selecting-best-vtuber-sound-alteration-apps/"><u>In 2024, Pros of Selecting Best Vtuber Sound Alteration Apps</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/migracion-sin-costo-al-formato-asf-conversion-avi-a-linea-web-mediante-convertidor-asistente/"><u>Migración Sin Costo Al Formato ASF: Conversión AVI a Línea Web Mediante Convertidor Asistente</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/transformer-un-fichier-flv-en-version-m4a-gratuite-sur-internet-avec-movavi/"><u>Transformer Un Fichier FLV en Version M4A Gratuite Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-iphones-wifi-hotspot-not-functional-fixes-and-expert-advice/"><u>Why Is My iPhone's WiFi Hotspot Not Functional? Fixes and Expert Advice</u></a></li>
 </ul></div>
 
