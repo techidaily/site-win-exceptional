@@ -1,7 +1,7 @@
 ---
 title: "1. Rapid Solutions: Overcome Audio Capture Issues in Audacity"
-date: 2024-10-01T20:48:52.208Z
-updated: 2024-10-05T16:51:10.260Z
+date: 2024-10-07T16:24:39.124Z
+updated: 2024-10-11T17:34:25.785Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744ac8a56e3cf77b13e5726b02.png
@@ -166,6 +166,13 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -175,13 +182,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -221,6 +221,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -230,10 +237,10 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -249,13 +256,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -331,13 +331,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -354,22 +347,16 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -453,10 +440,10 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
@@ -504,10 +491,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -515,10 +502,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 Foire aux questions 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
@@ -572,6 +559,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -607,20 +601,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-cutting-edge-voice-capture-top-recorders-of-2023/"><u>[Updated] 2024 Approved Cutting-Edge Voice Capture Top Recorders of 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[Updated] Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-seize-the-day-documenting-games-on-samsung-phones/"><u>[Updated] Seize the Day! Documenting Games on Samsung Phones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-filmmakers-handbook-mastering-close-up-videography/"><u>2024 Approved A Filmmaker's Handbook Mastering Close-Up Videography</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/amv-movavi-amv/"><u>網上無成本遊戲AMV變更格式 - Movavi AMV改編器</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/vob-and-mpgmp4/"><u>無料で簡単な方法：オンラインVOB & MPGファイルをMP4に変換！</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/activation-code-gratuito-per-videoeditorplus-inizia-a-editare-i-tuoi-video-ora/"><u>Activation Code Gratuito per VideoEditorPlus - Inizia a Editare I Tuoi Video Ora</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/download-the-ultimate-video-cleaner-eliminate-unwanted-sound-today/"><u>Download the Ultimate Video Cleaner: Eliminate Unwanted Sound Today!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-s18-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo S18 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/investigating-the-cause-for-slower-response-times-in-chatgpt-4-relative-to-chatgpt-35/"><u>Investigating the Cause for Slower Response Times in ChatGPT-4 Relative to ChatGPT-3.5</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-m6-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco M6 Pro 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/realme-12plus-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Realme 12+ 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/simple-tips-how-to-streamline-recording-your-gotomeetings-with-movavi/"><u>Simple Tips: How To Streamline Recording Your GoToMeetings with Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visualize-the-possibilities-a-beginners-guide-to-snapseed/"><u>Visualize the Possibilities A Beginner's Guide to Snapseed</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1726222238605-2024/"><u>음성 기사 만들기를 간식하는 가장 최저 비용의 오디오 무료 소스 - 2024년에 필수!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-how-to-make-reels-on-instagram/"><u>[Updated] In 2024, How to Make Reels on Instagram</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/au-mp3web-movavi/"><u>Au Mp3ファイルを簡単に変換する無料のWebサービス -Movavi</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/conversion-rapida-de-audio-alaw-a-mp3-sin-coste-alguno-por-medio-de-movavi-en-internet/"><u>Conversión Rápida De Audio ALAW a MP3 Sin Coste Alguno Por Medio De Movavi en Internet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-online/"><u>Cookiebot-Driven Personalization: Enhancing User Experience Online</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/descargar-archivos-de-audio-desde-mod-a-mp3-sin-coste-guia-completa-con-movavi/"><u>Descargar Archivos De Audio Desde MOD a MP3 Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dive-deep-accessing-facebooks-story-vault/"><u>Dive Deep Accessing Facebook's Story Vault</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/get-started-with-movavi-seamless-wma-and-flac-file-transformation-for-free/"><u>Get Started with Movavi: Seamless WMA and FLAC File Transformation for Free!</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/gratis-video-converter-hecht-flv-naar-mkv-en-meer-formaten-kostenloos-24-uur-online/"><u>Gratis VIDEO CONVERTER - Hecht FLV Naar MKV en Meer Formaten | Kostenloos | 24 Uur Online</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/gratuite-en-ligne-convertisseur-ogg-vers-mp3-avec-movavi-transformation-audio-gratuite-et-facile/"><u>Gratuité en Ligne : Convertisseur OGG Vers MP3 Avec Movavi - Transformation Audio Gratuite Et Facile !</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-embed-captions-in-facebook-videos-a-comprehensive-tutorial/"><u>How To Embed Captions in Facebook Videos - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition/"><u>In 2024, Enhance Your Digital Diaries for Free – Extensions & Mobile Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-premier-mp4-broadcast-suite/"><u>In 2024, Premier MP4 Broadcast Suite</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-mastering-pitch-adjustment-with-pristine-audacity-outputs-for-2024/"><u>New Mastering Pitch Adjustment with Pristine Audacity Outputs for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1726222960428-tga-jpg-movavi/"><u>TGA 對 JPG 無限制的線上免費變換 - 利用 Movavi 工具</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/wonderfox-dvd70/"><u>WonderFox DVDからビデオへ変換しやすくなる！期間限定で70%割引で獲得</u></a></li>
 </ul></div>
 

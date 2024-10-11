@@ -1,7 +1,7 @@
 ---
 title: 「オンラインで自由にAVIファイルをMPEG-4へ変換 – ConvertiFree」
-date: 2024-10-01T21:24:01.907Z
-updated: 2024-10-06T00:38:47.505Z
+date: 2024-10-06T18:04:54.359Z
+updated: 2024-10-11T17:43:53.155Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a5467f4617c51e1bd762f7f5db4.png
@@ -222,18 +222,18 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -261,6 +261,13 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -273,29 +280,9 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -365,13 +352,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -407,6 +387,13 @@ Pour overclocker :
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver SysMain et Prefetch
 
 C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes essaient de vous aider à accéder plus rapidement aux données, mais ils ajoutent finalement des opérations inutiles qui ralentissent les jeux. Voici comment les désactiver :
@@ -430,10 +417,10 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Cliquez sur **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -442,14 +429,14 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -458,13 +445,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -478,6 +458,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -523,6 +510,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -547,13 +541,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -563,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -607,20 +601,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles/"><u>[New] 2024 Approved Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-night-of-the-living-dead-games-an-epic-selection/"><u>[New] 2024 Approved Night of the Living Dead Games An Epic Selection</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-soundtrack-strategy-addmpy-in-videos-on-fb/"><u>[New] In 2024, The Soundtrack Strategy Addmpy in Videos on FB</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-top-5-best-live-stream-video-conference-recorders/"><u>[New] In 2024, Top 5 Best Live Stream Video Conference Recorders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>[New] Melody of Affection Greatest Love Songs to Sweeten a Proposal</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-raw-footage-to-broadcast-gold-twitch-recording-techniques/"><u>[Updated] From Raw Footage to Broadcast Gold Twitch Recording Techniques</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/movavi-png-jpg/"><u>如何優雅地使用Movavi轉換 PNG 成 JPG: 最佳技巧解析</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/cambiar-archivos-flac-a-formato-wav-online-sin-costo-con-movavi/"><u>Cambiar Archivos Flac a Formato Wav Online Sin Costo Con Movavi</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/convertidor-online-de-gifs-a-formatos-de-video-sin-costo-movavi/"><u>Convertidor Online De GIFs a Formatos De Video Sin Costo - Movavi</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/explore-the-best-gopro-editing-tools-a-comprehensive-list-of-13-leading-video-editors-for-action-cams/"><u>Explore the Best GoPro Editing Tools: A Comprehensive List of 13 Leading Video Editors for Action Cams</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/gratuit-konverteren-van-mpeg-tot-wmv-een-online-noodgevraag-met-movavi/"><u>Gratuit Konverteren Van MPEG Tot WMV: Een Online Noodgevraag Met Movavi</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/guia-completa-de-metodos-de-pago-en-movavi/"><u>Guía Completa De Métodos De Pago en Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-s23-tactical-edition-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy S23 Tactical Edition Phones</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/online-mpe-wav-audio-file-transformation-no-cost-solution-by-soundmaster-tools/"><u>Online MPE-WAV Audio File Transformation - No Cost Solution by SoundMaster Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/turn-your-gifs-into-professional-tiff-pictures-at-no-cost-using-our-simple-online-tool-by-movavi/"><u>Turn Your GIFs Into Professional TIFF Pictures at No Cost Using Our Simple Online Tool by Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-2023-linking-tweets-to-facebook-videos-effortlessly/"><u>[Updated] 2024 Approved 2023 Linking Tweets to Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[Updated] 2024 Approved Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhancing-professionalism-with-zooms-snappy-functionality/"><u>[Updated] 2024 Approved Enhancing Professionalism with Zoom’s Snappy Functionality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-strategic-marketing-insights-for-maximizing-youtube-shorts-popularity/"><u>[Updated] 2024 Approved Strategic Marketing Insights for Maximizing YouTube Shorts Popularity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>[Updated] In 2024, How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/convertisseur-gratuite-en-ligne-de-fichiers-mp3-vers-mp4-avec-movavi-performances-et-facilite-dutilisation-optimisees/"><u>Convertisseur Gratuite en Ligne De Fichiers Mp3 Vers Mp4 Avec Movavi - Performances Et Facilité D'utilisation Optimisées</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/disena-una-presentacion-musical-para-las-fiestas-con-nuestro-editor-de-diapositivas-tematica-de-diciembre-slideshow-christmas-maker/"><u>Diseña Una Presentación Musical Para Las Fiestas Con Nuestro Editor De Diapositivas Temática De Diciembre | Slideshow Christmas Maker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mass-movement-mastery-the-drone-top-list-for-2024/"><u>Mass Movement Mastery The Drone Top List for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/nsv-to-mpeg-conversion-online-free-tool-with-movavi-video-editing/"><u>NSV to MPEG Conversion Online - Free Tool with Movavi Video Editing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-straightforward-tutorial-converting-m2ts-videos-to-mpeg-with-simple-steps/"><u>Quick & Straightforward Tutorial: Converting M2TS Videos to MPEG with Simple Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ultimate-list-of-leading-image-handling-apps-on-pcmac-explore-the-best-free-and-paid-solutions/"><u>Ultimate List of Leading Image Handling Apps on PC/MAC - Explore the Best FREE and PAID Solutions</u></a></li>
 </ul></div>
 
