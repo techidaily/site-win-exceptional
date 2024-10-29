@@ -1,7 +1,7 @@
 ---
 title: "Small Business Survival Blueprint During Covid-19: Leveraging MassMail Tools and Techniques"
-date: 2024-10-17T13:04:48.661Z
-updated: 2024-10-23T03:12:36.623Z
+date: 2024-10-22T23:41:18.886Z
+updated: 2024-10-29T01:30:42.173Z
 tags:
   - product
 categories:
@@ -23,10 +23,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,23 +39,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -65,11 +51,31 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -88,10 +94,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -102,31 +108,37 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -167,22 +179,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-acid-pro-critique-and-comparable-software/"><u>[Updated] 2024 Approved ACID Pro Critique and Comparable Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-adding-linktree-to-your-tiktok-info/"><u>[Updated] Mastering the Art of Adding Linktree to Your TikTok Info</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-global-earning-maestro-of-video-content/"><u>2024 Approved Global Earning Maestro of Video Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-immediate-youtube-audience-insights/"><u>2024 Approved Immediate YouTube Audience Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-performance-best-windows-player-apps-reviewed/"><u>2024 Approved Prime Performance Best Windows Player Apps Reviewed</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/windowspcwin10win11/"><u>如何在Windows系统中免费地实现最有效的PC数据云存储与备份（Win10/Win11版本）</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/alternate-approaches-to-file-recovery-beyond-the-standard-windows-11-redo-backup-and-restore/"><u>Alternate Approaches to File Recovery: Beyond the Standard Windows 11 Redo Backup and Restore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/efficient-ways-to-address-tozo-t6-connectivity-problems-with-windows-11-systems/"><u>Efficient Ways to Address Tozo T6 Connectivity Problems with Windows 11 Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevating-your-vimeo-presence-with-imovie-videos-for-2024/"><u>Elevating Your Vimeo Presence with iMovie Videos for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/erfolgreiche-strategien-zum-wiederherstellen-defekter-bootsektorinformationen-in-nur-4-einfachen-schritten/"><u>Erfolgreiche Strategien Zum Wiederherstellen Defekter Bootsektorinformationen in Nur 4 Einfachen Schritten</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-xiaomi-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Xiaomi ?</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/hp-stream-11-troubleshooting-instant-fixes-for-the-device-cannot-be-found-during-startup/"><u>HP Stream 11 Troubleshooting: Instant Fixes for the 'Device Cannot Be Found During Startup'</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi online without jailbreak</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/migajearse-sin-problemas-instale-windows-11-o-10-en-una-unidad-m2-ssd-de-forma-sencilla-y-rapida/"><u>Migajearse Sin Problemas: Instale Windows 11 O 10 en Una Unidad M.2 SSD De Forma Sencilla Y Rápida</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/resurrecting-erased-tpl-files-with-these-three-proven-strategies/"><u>Resurrecting Erased TPL Files with These Three Proven Strategies</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/seamlessly-move-your-iphone-files-to-windows-or-mac-discover-three-effective-usb-based-solutions/"><u>Seamlessly Move Your iPhone Files to Windows or Mac: Discover Three Effective USB-Based Solutions</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/unlocking-deleted-data-on-unallocated-drives-a-comprehensive-tutorial/"><u>Unlocking Deleted Data on Unallocated Drives: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-captivating-windows-11-visual-themes/"><u>[New] Crafting Captivating Windows 11 Visual Themes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-quick-guide-downloading-tiktok-for-mac-users/"><u>[Updated] Quick Guide Downloading TikTok for Mac Users</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728502163259-windows/"><u>共用資料夾在Windows系統上的主要三種技術手段</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728501441222-4windows/"><u>无需花钱，用这4种文件传输程序来管理Windows电脑文件</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/wdst/"><u>最適なハードドライブ選び：WDとSTグループの比較分析は？</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728484474929-asus/"><u>ASUSトレーナーバックアップ計画とその代替オプション:詳細なガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatibility-queries-for-older-ps-games/"><u>Compatibility Queries for Older PS Games</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comprehensive-step-by-step-manual-for-restoring-your-samsung-notebook-with-windows-7/"><u>Comprehensive Step-by-Step Manual for Restoring Your Samsung Notebook with Windows 7</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/erfolgreich-defekte-sektoren-reparieren-und-geloste-daten-ausfuhren-chkdsk-funktionen-erklart/"><u>Erfolgreich Defekte Sektoren Reparieren Und Gelöste Daten Ausführen - Chkdsk-Funktionen Erklärt.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v29e-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V29e Unlock Without Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-infinite-twitterscape-embracing-the-hd-experience/"><u>In 2024, Infinite Twitterscape - Embracing the HD Experience</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/instalar-ghost-disco-duro-en-su-unidad-ssd-con-windows-11-tres-metodos-faciles-de-seguir/"><u>Instalar Ghost Disco Duro en Su Unidad SSD Con Windows 11: Tres Métodos Fáciles De Seguir</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/leading-wd-support-suites-secure-and-streamline-your-hardware-management-today/"><u>Leading WD Support Suites: Secure & Streamline Your Hardware Management Today</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/orderly-path-to-youtubes-hidden-treasure-troves-for-2024/"><u>Orderly Path to YouTube's Hidden Treasure Troves for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pairing-psvr-with-pc-made-easy-a-step-by-step-connection-guide/"><u>Pairing PSVR with PC Made Easy: A Step-by-Step Connection Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970994134-troubleshooting-and-fixing-amd-radeon-driver-issues-solutions-proven-effective/"><u>Troubleshooting and Fixing AMD Radeon Driver Issues: Solutions Proven Effective!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-magic-5-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor Magic 5 Users</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/windowspowershell/"><u>Windowsサーバーバックアップのセットアップと実行に必要なPowerShellコマンド</u></a></li>
 </ul></div>
 

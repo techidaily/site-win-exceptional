@@ -1,7 +1,7 @@
 ---
 title: "Complete Step-by-Step Troubleshooting Guide: Fixing Unrecognized External Drives in Windows 11"
-date: 2024-10-19T05:30:27.348Z
-updated: 2024-10-23T08:14:57.992Z
+date: 2024-10-24T19:02:06.123Z
+updated: 2024-10-28T19:39:45.243Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d131fe0f5a053db33ae9c232d.jpg
@@ -42,13 +42,6 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10](https://tools.techidaily.com/ubackup/products/)
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Introduzione
 
@@ -113,10 +106,10 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -137,13 +130,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -159,10 +145,10 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -190,6 +176,13 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -234,10 +227,16 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -251,6 +250,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -271,10 +277,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -294,17 +300,18 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-achieving-peak-performance-in-live-streams-obs-for-youtube-and-twitch/"><u>[New] In 2024, Achieving Peak Performance in Live Streams OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/uietly-stream-youtube-on-iphone-and-android/"><u>[New] Quietly Stream YouTube on iPhone & Android</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/actualisation-de-la-liste-des-recents-fichier-disparu-dans-acces-rapide-explorer/"><u>Actualisation De La Liste Des Récents: Fichier Disparu Dans Accès Rapide Explorer</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/come-ripristinare-i-tuoi-file-guida-passo-passo-a-ricreare-i-dati-da-un-disco-esterno-cancellato/"><u>Come Ripristinare I Tuoi File: Guida Passo-Passo a Ricreare I Dati Da Un Disco Esterno Cancellato</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/depannage-facile-pourquoi-acronis-ne-reconnait-il-pas-ma-memoire-ssd-crucial-solutions-alternatives/"><u>Dépannage Facile : Pourquoi Acronis Ne Reconnaît-Il Pas Ma Mémoire SSD Crucial ? (Solutions Alternatives)</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-k70-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi K70 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-motorola-edge-40-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Motorola Edge 40 Pro Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-hdr-portraiture-an-ultimate-guide/"><u>In 2024, Mastering HDR Portraiture An Ultimate Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pinpointing-places-how-to-set-multiple-pins-on-google-map-interface/"><u>Pinpointing Places: How to Set Multiple Pins on Google Map Interface</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/pourquoi-devrais-je-reformater-ma-cle-usb-sur-demande/"><u>Pourquoi Devrais-Je Reformater Ma Clé USB Sur Demande?</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/quick-techniques-for-retrieving-erased-information-on-your-lexar-usb-drives/"><u>Quick Techniques for Retrieving Erased Information on Your Lexar USB Drives</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/simplify-system-restoration-procedures-with-smart-strategies/"><u>Simplify System Restoration Procedures with Smart Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimizing-your-live-broadcasts-with-obs-and-zoom/"><u>[New] 2024 Approved Optimizing Your Live Broadcasts with OBS & Zoom</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-comparative-study-samsung-vs-traditional-photo-tools/"><u>[Updated] Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-solutions-to-enable-text-tone-notifications-when-iphone-fails-to-alert/"><u>Comprehensive Solutions to Enable Text Tone Notifications When iPhone Fails To Alert</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cracking-the-code-of-photoshop-for-beginners/"><u>Cracking the Code of Photoshop for Beginners</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-apex-legends-wont-start-fast-and-simple-solutions/"><u>Fix Apex Legends Won't Start: Fast and Simple Solutions</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/hdd-windows-881/"><u>HDDのバックアップと交換手順: Windows 8/8.1向けガイド</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-erase-your-disk-in-windows-absoluement-sans-cd-guide-complet-en-deux-etapes/"><u>How to Erase Your Disk in Windows Absoluement Sans CD : Guide Complet en Deux Etapes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/installing-different-browsers-enhancing-your-samsung-tvs-web-experience/"><u>Installing Different Browsers: Enhancing Your Samsung TV's Web Experience</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ipadwi-fiiphone/"><u>IPadへ画像移動：Wi-Fi不要でiPhone使用</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/os-melhores-programas-livres-para-transferencia-de-dados-do-hd-para-o-ssd-guia-detalhado/"><u>Os Melhores Programas Livres Para Transferência De Dados Do HD Para O SSD – Guia Detalhado</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-solutions-lenovo-bt-driver-on-win11/"><u>Unveiling Solutions: Lenovo BT Driver on WIN11</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/verwendung-einer-noch-nicht-registrierten-apple-id-im-itunes-store-was-sie-wissen-sollten/"><u>Verwendung Einer Noch Nicht Registrierten Apple ID Im iTunes Store – Was Sie Wissen Sollten</u></a></li>
 </ul></div>
 
