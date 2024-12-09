@@ -1,7 +1,7 @@
 ---
 title: Latest Version of PCDJ (DEX 3, DEX 3 R & DEX 3 L) - Download the Updated 3.6.1.1 DJ Software Now
-date: 2024-11-23T17:36:31.684Z
-updated: 2024-12-01T07:53:14.176Z
+date: 2024-12-06T20:22:59.304Z
+updated: 2024-12-08T21:31:18.285Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,21 +81,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ideal-cameras-perfect-for-smooth-podcasting/"><u>[New] 2024 Approved Ideal Cameras Perfect for Smooth Podcasting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ace-search-engine-rankings-on-youtube-11-proven-seo-methods/"><u>[New] In 2024, Ace Search Engine Rankings on YouTube 11 Proven SEO Methods</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aximizing-screen-time-selecting-an-mcn-wisely-for-2024/"><u>[New] Maximizing Screen Time Selecting an MCN Wisely for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/our-first-youtubian-venture-building-a-brand-bringing-in-bucks-for-2024/"><u>[New] Your First Youtubian Venture Building a Brand, Bringing in Bucks for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/2-sd/"><u>2 つの巧みな電子メール SDカードへの保管方法</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>2024 Approved OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-efail-error-code-0x80004005-in-virtualbox/"><u>Combatting E_FAIL (Error Code: 0X80004005) in Virtualbox</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/erfassen-und-speichern-von-screenshots-tipps-fur-windows-pc-und-iphones/"><u>Erfassen Und Speichern Von Screenshots: Tipps Für Windows PC Und iPhones</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-to-ensure-uninterrupted-gameplay-for-king-of-fighters-xv-on-your-computer/"><u>Expert Tips to Ensure Uninterrupted Gameplay for 'King of Fighters XV' On Your Computer</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-clone-di-sistema-boosts-your-it-solutions/"><u>How Clone Di Sistema Boosts Your IT Solutions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/leveraging-snapchat-for-income/"><u>Leveraging Snapchat for Income</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pinnacle-goggles-ranking-best-5-for-drone-flyers/"><u>Pinnacle Goggles Ranking Best 5 for Drone Flyers</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/simple-steps-building-a-stealthy-recovery-drive-for-windows-7/"><u>Simple Steps: Building a Stealthy Recovery Drive for Windows 7</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/solutions-pour-resoudre-limpossible-boot-sur-votre-ssd-windows-111087-en-point/"><u>Solutions Pour Résoudre L'Impossible Boot Sur Votre SSD : Windows 11/10/8/7 en Point!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/tecnicas-facilmente-compreendidas-recuperar-dados-apagados-de-seu-disco-rigido-sem-custo-um-tutorial-completo/"><u>Técnicas Facilmente Compreendidas: Recuperar Dados Apagados De Seu Disco Rígido Sem Custo - Um Tutorial Completo</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/wissen-sie-schon-wie-man-daten-vom-iphone-nach-der-einrichtung-auf-das-ipad-ubertragt-entdecken-sie-diese-4-einfachen-methoden/"><u>Wissen Sie Schon, Wie Man Daten Vom iPhone Nach Der Einrichtung Auf Das iPad Überträgt? Entdecken Sie Diese 4 Einfachen Methoden!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-up-to-professionalism-navigating-dslr-and-facebook-live-with-your-computer/"><u>[Updated] 2024 Approved Step Up to Professionalism Navigating DSLR & Facebook LIVE with Your Computer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-the-art-of-comfortable-virtual-experiences-for-2024/"><u>[Updated] Mastering the Art of Comfortable Virtual Experiences for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/convert-your-finance-tutorials-into-mp4-or-avi-easy-downloads-for-pc-and-mac/"><u>Convert Your Finance Tutorials Into MP4 or AVI - Easy Downloads for PC & Mac</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-guide-transforming-your-iphone-videos-into-high-quality-mp3-files/"><u>Easy Guide: Transforming Your iPhone Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guide-transferring-video-files-seamlessly-in-windows-insights-by-yl-computing/"><u>Guide: Transferring Video Files Seamlessly in Windows - Insights by YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/maximize-computer-performance-stability-during-graphics-heavy-usage-expert-advice-by-yl-software-solutions/"><u>Maximize Computer Performance Stability During Graphics-Heavy Usage – Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/solutions-when-your-gpu-is-not-detected-by-windows-device-manager-expert-advice-from-yl-computing/"><u>Solutions When Your GPU Is Not Detected by Windows Device Manager - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-samsung-soundbar-with-your-television/"><u>Step-by-Step Guide: Linking Your Samsung Soundbar with Your Television</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-top-wallets-for-securely-holding-and-managing-cryptocurrencies/"><u>YL Computing's Guide: Top Wallets for Securely Holding and Managing Cryptocurrencies</u></a></li>
 </ul></div>
 

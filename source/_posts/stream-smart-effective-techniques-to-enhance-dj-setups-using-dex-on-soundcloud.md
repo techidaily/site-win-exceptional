@@ -1,7 +1,7 @@
 ---
 title: "Stream Smart: Effective Techniques to Enhance DJ Setups Using DEX on SoundCloud"
-date: 2024-11-24T10:13:12.848Z
-updated: 2024-12-01T10:40:31.469Z
+date: 2024-12-02T16:08:37.715Z
+updated: 2024-12-08T18:49:00.618Z
 tags:
   - product
 categories:
@@ -20,6 +20,10 @@ This week we [announced our new partnership with SoundCloud](https://tools.techi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download the SoundCloud App for iOS or Android to Create Playlists whenever or wherever you’re Inspired
 
 ![SoundCloud on iOS](https://i1.wp.com/pcdj.com/wp-content/uploads/2019/05/640.png?fit=169%2C300&ssl=1 "SoundCloud on iOS")
@@ -29,7 +33,7 @@ SoundCloud Go+ offers worlds’ largest streaming catalog with over 200 million 
 No matter where you are; commuting on a train to work, meeting with the bride before their special day, or in the club listening to another DJ throw down a killer set, you can pull your phone out of your pocket, pop open the app and create playlists that will automatically synchronize with the DEX 3 database. Get back to the house, fire up your laptop and pop open DEX 3 — boom, there’s you’re playlist, ready to stream and mix. Get [SoundCloud for iOS](https://itunes.apple.com/us/app/soundcloud-music-audio/id336353151?mt=8) Get [SoundCloud for Android](https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en%5FUS)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Refresh Playlists in DEX 3 for On-The-Fly Updates
@@ -37,7 +41,7 @@ No matter where you are; commuting on a train to work, meeting with the bride be
 ![refresh SoundCloud playlists in DEX 3 DJ Software](https://i0.wp.com/pcdj.com/wp-content/uploads/2019/05/DEX3-refreshplaylists.jpg?fit=300%2C300&ssl=1 "refresh SoundCloud playlists in DEX 3 DJ Software")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you’re working on a creating a playlist for a set using the SoundCloud website with DEX 3 open you can refresh playlists on the fly.
@@ -45,7 +49,7 @@ If you’re working on a creating a playlist for a set using the SoundCloud webs
 Simply right click (CTRL+CLICK on MAC) on the text “Playlists” under the SoundCloud tab located on the left side of the DEX 3 browser and select “Refresh Playlists”. Doing so will scan for changes and updates applied on the SoundCloud website and immediately update DEX 3, displaying any new playlists created on the website (or via the app) and any freshly added tracks there within.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Struggling with Playlist Creation? Use the SoundCloud Charts
@@ -53,7 +57,7 @@ Simply right click (CTRL+CLICK on MAC) on the text “Playlists” under the Sou
 ![SoundCloud Music Charts for DJs](https://i0.wp.com/pcdj.com/wp-content/uploads/2019/05/sc-charts.jpg?fit=300%2C300&ssl=1 "SoundCloud Music Charts for DJs")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Getting stumped during playlist creation? Thankfully, SoundCloud offers tools for music discovery including curated charts in all genres.
@@ -63,10 +67,6 @@ Music Charts come in all varieties, such as “The Bridge – Music to get you t
 There you have it, 3 Pro Tips to help you get started with using SoundCloud Go+ with DEX 3\. **Stay tuned, _there will be more!_**
 
 **_Have questions about DEX 3 and SoundCloud Go+ streaming? Please leave them in the comments section below!_**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -87,20 +87,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/05/soundcloud-go-dex3-protips
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-to-filming-live-scenes/"><u>[New] 2024 Approved Ultimate Guide to Filming Live Scenes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-simple-steps-to-record-your-youtube-streams-for-2024/"><u>[New] 5 Simple Steps to Record Your YouTube Streams for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-in-class-top-10-streamers-with-a-comparative-edge/"><u>[Updated] In 2024, Best in Class Top 10 Streamers with a Comparative Edge</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-writers-workshop-for-podcast-creators-examples-included-for-2024/"><u>[Updated] The Writers' Workshop for Podcast Creators (Examples Included) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-vector-editors-as-acid-pro-successors/"><u>2024 Approved Innovative Vector Editors as ACID Pro Successors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-deep-dive-into-elgoogs-unique-platform-an-in-depth-overview/"><u>A Deep Dive Into ElgooG's Unique Platform - An In-Depth Overview</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/easy-steps-for-moving-photos-from-iphone-model-15-to-pc-ultimate-guide-with-five-techniques/"><u>Easy Steps for Moving Photos From iPhone Model 15 to PC: Ultimate Guide with Five Techniques</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/guia-completa-como-ejecutar-windows-10-en-una-memoria-usb-con-dos-tecnicas-distintas/"><u>Guía Completa: Cómo Ejecutar Windows 10 en Una Memoria USB Con Dos Técnicas Distintas</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/interconnecting-virtual-environments-techniques-for-joining-multiple-vms/"><u>Interconnecting Virtual Environments: Techniques for Joining Multiple VMs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/native-chrome-os-screen-snapper-for-2024/"><u>Native Chrome OS Screen Snapper for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/professionelles-handbuch-fur-das-verbrennen-von-windows-11-iso-dateien-mit-top-hardware-auf-einer-flash-drive/"><u>Professionelles Handbuch Für Das Verbrennen Von Windows 11 ISO Dateien Mit Top-Hardware Auf Einer Flash Drive</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728495431146-rawhdd/"><u>RAWフォーマットの外付けHDDを修復するためのシンプル方法</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/windows-11-comment-recuperer-les-documents-perdus-guide-de-depannage-pour-la-recuperation-des-fichiers/"><u>Windows 11 - Comment Récupérer Les Documents Perdus : Guide De Dépannage Pour La Récupération Des Fichiers</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/sdwinpc/"><u>フォーマット済みSDカードからデータを取り戻すためのWinPCアプリケーションガイド</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-guide-to-overcoming-blackout-in-obs-fullscreen/"><u>[New] Guide to Overcoming Blackout in OBS Fullscreen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-toolwiz-evaluation-the-top-choice-in-mobile-editing/"><u>[Updated] 2024 Approved Toolwiz Evaluation The Top Choice in Mobile Editing?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-screencast-handbook-adept-techniques-and-tools/"><u>[Updated] In 2024, Ultimate Screencast Handbook Adept Techniques & Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-your-potential-in-free-youtube-transcription-techniques/"><u>[Updated] Unlocking Your Potential in Free YouTube Transcription Techniques</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-iosts/"><u>1. IOSデバイスにおけるTS形式動画の再生手順</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-brightening-up-your-youtube-content/"><u>2024 Approved The Ultimate Guide to Brightening Up Your YouTube Content</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/boost-your-pcs-speed-and-efficiency-expert-tips-by-yl-computing-top-strategies-for-enhanced-system-performance/"><u>Boost Your PC's Speed and Efficiency: Expert Tips by YL Computing - Top Strategies for Enhanced System Performance</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/customizing-your-computers-display-changing-background-and-theme-settings-according-to-yl-software-experts/"><u>Customizing Your Computer's Display: Changing Background & Theme Settings, According to YL Software Experts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-creating-engaging-stream-content-shorts/"><u>In 2024, Creating Engaging Stream Content Shorts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smartphone-entertainment-at-no-cost-our-top-picks-of-live-streamers/"><u>Smartphone Entertainment at No Cost Our Top Picks of Live Streamers</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/supercharge-your-lagging-laptop-effective-strategies-by-yl-software-specialists/"><u>Supercharge Your Lagging Laptop: Effective Strategies by YL Software Specialists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-emerges-as-superior-in-ai-speech-gpt-or-huggingchat/"><u>Who Emerges as Superior in AI Speech, GPT or HuggingChat?</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-steps-to-remove-unnecessary-programs/"><u>YL Computing's Guide: Steps to Remove Unnecessary Programs</u></a></li>
 </ul></div>
 

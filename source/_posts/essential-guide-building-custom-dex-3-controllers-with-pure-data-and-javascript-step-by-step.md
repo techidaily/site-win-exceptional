@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step"
-date: 2024-11-24T22:26:00.522Z
-updated: 2024-11-30T17:20:29.310Z
+date: 2024-12-07T22:37:34.462Z
+updated: 2024-12-09T00:20:57.517Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ DEX 3 and RED Mobile 3 Default DJ Controller scripts are stored in: App folder (
 [Download DEX 3 Actions And Notifications Documentation](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,24 +52,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/scripting-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-mac-from-live-classroom-to-recorded-session/"><u>[New] In 2024, Mastering Mac From Live Classroom to Recorded Session</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>[Updated] Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-enhance-pc-listening-experience-install-x-recorder/"><u>2024 Approved Enhance PC Listening Experience - Install X-Recorder</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pcwindows-10115/"><u>最新PC（Windows 10/11）に合う、オーディオ録画ツールベスト5選択肢</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/best-5-substitutes-for-pc-inspector-on-windows-systems/"><u>Best 5 Substitutes for PC Inspector on Windows Systems</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/comprend-le-processus-facile-trois-options-non-fiables-pour-nettoyer-completement-votre-disque-dur-avec-dban/"><u>Comprend Le Processus Facile: Trois Options Non Fiables Pour Nettoyer Complètement Votre Disque Dur Avec DBAN</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/copias-de-seguridad-incrementales-y-diferenciales-en-software-tecnicas-avanzadas-para-el-respaldo-eficiente/"><u>Copias De Seguridad Incrementales Y Diferenciales en Software: Técnicas Avanzadas Para El Respaldo Eficiente</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-rgb-led-with-windows-11/"><u>Customizing RGB LED with Windows 11</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/esegui-una-manutenzione-efficiente-e-sicura-della-memoria-sul-tuo-computer-con-windows-t/"><u>Esegui Una Manutenzione Efficiente E Sicura Della Memoria Sul Tuo Computer Con Windows T</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/guide-facile-pour-dupliquer-tous-les-fichiers-dun-ssd-vers-un-second-hard-drive/"><u>Guide Facile Pour Dupliquer Tous Les Fichiers D'un SSD Vers Un Second Hard Drive</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-a58-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A58 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/innovative-interaction-integrating-watch-with-macos/"><u>Innovative Interaction Integrating Watch with MacOS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/navigate-the-world-of-instagram-videos-for-maximum-impact-for-2024/"><u>Navigate the World of Instagram Videos for Maximum Impact for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/schritt-fur-schritt-anleitung-zur-heif-zu-jpeg-umwandlung-auf-macos-und-windows-pcs/"><u>Schritt-Für-Schritt-Anleitung Zur HEIF-Zu-JPEG-Umwandlung Auf macOS Und Windows PCs</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-reverting-your-pc-to-original-manufacturer-specs-with-windows-10/"><u>Step-by-Step Guide: Reverting Your PC to Original Manufacturer Specs with Windows 10</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/three-effective-strategies-to-resolve-pending-removal-issues-on-your-microsoft-onedrive-account/"><u>Three Effective Strategies to Resolve Pending Removal Issues on Your Microsoft OneDrive Account</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/troubleshooting-and-repairing-non-functional-pin-features-on-windows-1011-with-myrecover-solutions/"><u>Troubleshooting and Repairing Non-Functional Pin Features on Windows 10/11 with MyRecover Solutions</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-y17s-by-fonelab-android-recover-music/"><u>Undelete lost music from Y17s</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-5-high-quality-displays-for-unparalleled-games/"><u>[New] 2024 Approved 5 High-Quality Displays for Unparalleled Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-most-extensive-selection-of-free-illustrator-portals/"><u>[New] In 2024, The Most Extensive Selection of Free Illustrator Portals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-vrecorders-potential-quick-download-and-install/"><u>[Updated] Unlocking VRecorder's Potential Quick Download & Install</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/can-you-rely-on-windows-defenders-live-shield-feature-exploring-its-effectiveness-with-yl-computing/"><u>Can You Rely on Windows Defender's Live Shield Feature? Exploring Its Effectiveness with YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/easy-steps-to-tailor-your-desktop-experience-with-yl-computings-customization-toolkit/"><u>Easy Steps to Tailor Your Desktop Experience with YL Computing's Customization Toolkit</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-gaming-innovation-showcase/"><u>IFA 2023 Gaming Innovation Showcase</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/keep-your-graphics-card-safe-from-heat-damage-essential-advice-for-gamers-and-designers-yl-software-insights/"><u>Keep Your Graphics Card Safe From Heat Damage: Essential Advice for Gamers and Designers - YL Software Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/microsoft-empowers-staff-with-team-upgrades-a-bold-move-by-zdnet/"><u>Microsoft Empowers Staff with Team Upgrades - A Bold Move by ZDNet</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/simple-file-backup-techniques-on-windows-with-yl-computings-solutions/"><u>Simple File Backup Techniques on Windows with YL Computing's Solutions</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-tweaking-your-pcs-audio-and-peripherals-via-windows-control-panel-expert-tips-from-yl-software/"><u>Step-by-Step Guide: Tweaking Your PC's Audio & Peripherals via Windows Control Panel - Expert Tips From YL Software</u></a></li>
 </ul></div>
 
