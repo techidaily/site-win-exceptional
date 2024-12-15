@@ -1,7 +1,7 @@
 ---
 title: Small Business Email Promotions Made Easy and Budget-Friendly Using MassMail Solutions
-date: 2024-12-03T22:20:52.361Z
-updated: 2024-12-08T20:58:19.166Z
+date: 2024-12-10T16:40:38.046Z
+updated: 2024-12-15T16:14:00.962Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -49,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -57,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,17 +74,9 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -94,17 +90,21 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -113,6 +113,10 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-capture-best-screen-recorder-apps-timelapse/"><u>[New] Elite Capture Best Screen Recorder Apps (Timelapse)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-topics-with-a-twist-for-your-vlog-talks/"><u>[New] In 2024, Topics with a Twist for Your Vlog Talks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-chatgpts-performance-with-these-seven-tactics/"><u>Elevating ChatGPT's Performance with These Seven Tactics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/highlighted-10-facial-edits-for-iosandroid-phones/"><u>Highlighted 10 Facial Edits for iOS/Android Phones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/is-it-possible-to-clean-up-your-windows-registry-expert-tips-and-tricks/"><u>Is It Possible To Clean Up Your Windows Registry? Expert Tips And Tricks</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/resolving-windows-software-conflicts-expert-advice-from-yl-computing/"><u>Resolving Windows Software Conflicts: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/the-ultimate-guide-to-crypto-asset-management-using-innovative-services-and-solutions-by-yl-software/"><u>The Ultimate Guide to Crypto Asset Management Using Innovative Services and Solutions by YL Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-no-cost-malware-scrubbers-in-2er-2024/"><u>Top 5 No-Cost Malware Scrubbers in 2Er 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/troubleshoot-and-restore-malfunctioning-hardware-in-windows-with-expert-advice-from-yl-computings-software-experts/"><u>Troubleshoot and Restore Malfunctioning Hardware in Windows with Expert Advice From YL Computing's Software Experts</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-causes-of-your-gpu-malfunction-insights-from-yl-computing/"><u>Understanding the Causes of Your GPU Malfunction: Insights From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-root-of-audio-device-malfunctions-a-deep-dive-by-yl-computing/"><u>Understanding the Root of Audio Device Malfunctions: A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722208330807-why-you-should-choose-the-chatgpt-app-for-ios-devices-instead-of-the-website-6-essential-reasons/"><u>Why You Should Choose the ChatGPT App for iOS Devices Instead of the Website - 6 Essential Reasons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-synchronize-successfully-5-steps-for-data-migration/"><u>[New] 2024 Approved Synchronize Successfully 5 Steps for Data Migration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-your-mix-essential-audio-devices-for-podcast-success/"><u>[New] Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-digital-diaries-blending-visuals-with-audio-threads/"><u>[Updated] 2024 Approved Digital Diaries Blending Visuals with Audio Threads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-snapchats-spotlight-feature-deeply/"><u>2024 Approved Exploring Snapchat's Spotlight Feature Deeply</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebots-influence-on-smart-marketing-strategies/"><u>Cookiebot's Influence on Smart Marketing Strategies</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/corrupt-system-file-recovery-solutions-by-yl-software/"><u>Corrupt System File Recovery Solutions by YL Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ting-youtube-live-with-high-quality-webcam-cameras/"><u>Elevating YouTube Live with High-Quality Webcam Cameras</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-connectivity-lenovo-bluetooth-driver-download-and-update-for-windows-710-risk-free/"><u>Ensure Smooth Connectivity: Lenovo Bluetooth Driver Download & Update for Windows 7/10 (Risk-Free)</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-faulty-hardware-configurations-lead-to-graphics-card-malfunctions-expert-advice-from-yl-computing/"><u>How Faulty Hardware Configurations Lead to Graphics Card Malfunctions - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-fix-the-p-dev310-error-message-on-your-hulu-streaming-device/"><u>How to Fix the 'P-DEV310' Error Message on Your Hulu Streaming Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-five-ways-to-improve-touchscreen-performance-on-your-windows-10-pc/"><u>Master the Fix: Five Ways to Improve Touchscreen Performance on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-printing-documents-on-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Printing Documents on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/understanding-the-reasons-behind-hard-drive-malfunctions-insights-from-yl-computing/"><u>Understanding the Reasons Behind Hard Drive Malfunctions: Insights From YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-software-is-their-digital-coin-balance-monitoring-service-free-or-paid/"><u>YL Software: Is Their Digital Coin Balance Monitoring Service Free or Paid?</u></a></li>
 </ul></div>
 

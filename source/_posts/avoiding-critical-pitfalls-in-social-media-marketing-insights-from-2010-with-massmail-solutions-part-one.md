@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Critical Pitfalls in Social Media Marketing: Insights From 2010 with Massmail Solutions, Part One"
-date: 2024-12-06T03:08:19.876Z
-updated: 2024-12-08T19:54:52.236Z
+date: 2024-12-10T16:47:43.884Z
+updated: 2024-12-15T16:36:53.142Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -55,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -69,6 +73,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -91,28 +99,24 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-your-ultimate-selfie-validation-handbook/"><u>[New] Your Ultimate Selfie Validation Handbook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-10-best-no-cost-live-streaming-tools-android-and-iphone-guide/"><u>[Updated] 2024 Approved 10 Best No-Cost Live Streaming Tools Android & iPhone Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-building-your-influencer-empire-on-instagram-practical-5-step-guide/"><u>[Updated] In 2024, Building Your Influencer Empire on Instagram Practical 5-Step Guide</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/boost-your-pcs-speed-and-efficiency-expert-tips-by-yl-computing-top-strategies-for-enhanced-system-performance/"><u>Boost Your PC's Speed and Efficiency: Expert Tips by YL Computing - Top Strategies for Enhanced System Performance</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/customizing-your-computers-display-changing-background-and-theme-settings-according-to-yl-software-experts/"><u>Customizing Your Computer's Display: Changing Background & Theme Settings, According to YL Software Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-apps-and-programs-for-image-video-integration/"><u>In 2024, Best Apps and Programs for Image Video Integration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-windows-data-evaluation-guide/"><u>In 2024, Quick Windows Data Evaluation Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-blending-multiple-exposures-into-a-single-hdr-in-lightroom/"><u>In 2024, The Ultimate Guide to Blending Multiple Exposures Into a Single HDR in Lightroom</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/keyboard-and-mouse-sanitization-techniques-expert-advice-from-yl-computing/"><u>Keyboard & Mouse Sanitization Techniques - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-game-crashes-in-deathloop-pc-edition-with-these-quick-tricks/"><u>Overcome Game Crashes in Deathloop (PC Edition) with These Quick Tricks</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/solving-windows-audio-issues-a-step-by-step-guide-to-fixing-sound-card-glitches/"><u>Solving Windows Audio Issues: A Step-by-Step Guide to Fixing Sound Card Glitches</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/supercharge-your-lagging-laptop-effective-strategies-by-yl-software-specialists/"><u>Supercharge Your Lagging Laptop: Effective Strategies by YL Software Specialists</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-reasons-behind-your-laptops-heating-issues-a-guide-from-yl-software-experts/"><u>Understanding the Reasons Behind Your Laptop's Heating Issues: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/voortgang-tot-afwerking-databankgebruik-met-windows-11-nog-aan-het-begin/"><u>Voortgang Tot Afwerking Databankgebruik Met Windows 11 - Nog Aan Het Begin</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-steps-to-remove-unnecessary-programs/"><u>YL Computing's Guide: Steps to Remove Unnecessary Programs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[Updated] Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-mac-capture-hacks-top-5-methods-reviewed/"><u>2024 Approved Ultimate Mac Capture Hacks Top 5 Methods Reviewed</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-proplus-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-the-new-and-improved-nook-glowlight-4/"><u>In-Depth Analysis: The New and Improved Nook GlowLight 4</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/master-your-peripherals-configuring-mice-and-keyboards-with-expert-advice-from-yl-software/"><u>Master Your Peripherals: Configuring Mice & Keyboards with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/pcdj-red-mobile-2-the-ultimate-user-friendly-dj-app-for-on-the-go-mixing/"><u>PCDJ RED Mobile 2: The Ultimate User-Friendly DJ App for On-the-Go Mixing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/resolving-your-pcs-sluggish-performance-tips-and-tricks-for-accelerating-a-slower-cpu-insights-from-yl-computing/"><u>Resolving Your PC's Sluggish Performance: Tips and Tricks for Accelerating a Slower CPU - Insights From YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/setting-up-multi-user-access-on-your-system-via-control-panel-a-guide-by-yl-computing/"><u>Setting Up Multi-User Access on Your System via Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamlining-social-space-management-with-facebooks-latest-tools/"><u>Streamlining Social Space Management with Facebook's Latest Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-ai-potential-explore-the-20-most-effective-chatgpt-prompts-curated-for-github-enthusiasts/"><u>Unleash AI Potential: Explore the 20 Most Effective ChatGPT Prompts Curated for GitHub Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unraveling-the-secrets-of-excellent-screen-recording-with-recmeister-for-2024/"><u>Unraveling the Secrets of Excellent Screen Recording with Recmeister for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/verifying-your-gpu-functionality-a-step-by-step-guide-by-yl-computing/"><u>Verifying Your GPU Functionality: A Step-by-Step Guide - By YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-computings-step-by-step-guide-setting-up-your-own-profitable-mining-venture-with-yl-software/"><u>YL Computing's Step-by-Step Guide: Setting Up Your Own Profitable Mining Venture with YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-computings-striking-black-white-and-greyscale-texture-background-images-for-inspiration/"><u>YL Computing's Striking Black, White & Greyscale Texture Background Images for Inspiration</u></a></li>
 </ul></div>
 

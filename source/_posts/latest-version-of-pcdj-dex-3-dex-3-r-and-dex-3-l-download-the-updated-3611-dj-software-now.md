@@ -1,7 +1,7 @@
 ---
 title: Latest Version of PCDJ (DEX 3, DEX 3 R & DEX 3 L) - Download the Updated 3.6.1.1 DJ Software Now
-date: 2024-12-06T20:22:59.304Z
-updated: 2024-12-08T21:31:18.285Z
+date: 2024-12-10T16:26:09.317Z
+updated: 2024-12-15T16:29:02.775Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,15 +81,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-up-to-professionalism-navigating-dslr-and-facebook-live-with-your-computer/"><u>[Updated] 2024 Approved Step Up to Professionalism Navigating DSLR & Facebook LIVE with Your Computer</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-the-art-of-comfortable-virtual-experiences-for-2024/"><u>[Updated] Mastering the Art of Comfortable Virtual Experiences for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-your-finance-tutorials-into-mp4-or-avi-easy-downloads-for-pc-and-mac/"><u>Convert Your Finance Tutorials Into MP4 or AVI - Easy Downloads for PC & Mac</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/easy-guide-transforming-your-iphone-videos-into-high-quality-mp3-files/"><u>Easy Guide: Transforming Your iPhone Videos Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/guide-transferring-video-files-seamlessly-in-windows-insights-by-yl-computing/"><u>Guide: Transferring Video Files Seamlessly in Windows - Insights by YL Computing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 13 mini</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/maximize-computer-performance-stability-during-graphics-heavy-usage-expert-advice-by-yl-software-solutions/"><u>Maximize Computer Performance Stability During Graphics-Heavy Usage – Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/solutions-when-your-gpu-is-not-detected-by-windows-device-manager-expert-advice-from-yl-computing/"><u>Solutions When Your GPU Is Not Detected by Windows Device Manager - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-samsung-soundbar-with-your-television/"><u>Step-by-Step Guide: Linking Your Samsung Soundbar with Your Television</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-top-wallets-for-securely-holding-and-managing-cryptocurrencies/"><u>YL Computing's Guide: Top Wallets for Securely Holding and Managing Cryptocurrencies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-sound-and-filter-integration-in-windows-10-photos-app/"><u>[New] Mastering Sound & Filter Integration in Windows 10 Photos App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-flashy-game-collection-quick-and-lightweight/"><u>2024 Approved Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-photoshop-repair-programs-ranked-top-10-selections-for-apple-and-pc-devices/"><u>Discover the Leading Photoshop Repair Programs Ranked: Top 10 Selections for Apple and PC Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/earn-a-150-apple-gift-card-when-buying-your-next-mac-or-ipad-for-education-zdnet/"><u>Earn a $150 Apple Gift Card When Buying Your Next Mac or iPad for Education | ZDNet</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/exploring-the-historical-figure-behind-chinas-extensive-roadway-and-canal-infrastructure-a-profile-by-yl-computing/"><u>Exploring the Historical Figure Behind China's Extensive Roadway & Canal Infrastructure: A Profile by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/gifting-games-from-steam-a-guide-for-friends/"><u>Gifting Games From Steam: A Guide for Friends</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-you-restore-accidentally-deleted-files-from-an-excel-spreadsheet-on-a-windows-10-pc/"><u>How Can You Restore Accidentally Deleted Files From an Excel Spreadsheet on a Windows 10 PC?</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/identifying-issues-in-fluctuating-hardware-efficiency-a-guide-from-yl-computing/"><u>Identifying Issues in Fluctuating Hardware Efficiency: A Guide From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-amd-gpio-driver-available-for-instant-download/"><u>Latest AMD GPIO Driver Available for Instant Download</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/master-your-peripherals-configuring-mice-and-keyboards-with-expert-advice-from-yl-software/"><u>Master Your Peripherals: Configuring Mice & Keyboards with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/overcoming-recurring-system-lockups-with-expert-advice-from-yl-computing-and-yl-software/"><u>Overcoming Recurring System Lockups with Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/pcdj-red-mobile-2-the-ultimate-user-friendly-dj-app-for-on-the-go-mixing/"><u>PCDJ RED Mobile 2: The Ultimate User-Friendly DJ App for On-the-Go Mixing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/printer-setup-problems-a-step-by-step-guide-to-resolving-common-issues-yl-computings-expert-solutions/"><u>Printer Setup Problems: A Step-by-Step Guide to Resolving Common Issues - YL Computing's Expert Solutions</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/top-tools-for-detecting-and-repairing-windows-memory-issues-discover-the-best-solutions-from-yl-computing/"><u>Top Tools for Detecting & Repairing Windows Memory Issues - Discover the Best Solutions From YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-secrets-with-enhanced-scopes-in-roblox-games/"><u>Unveiling Secrets with Enhanced Scopes in Roblox Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-reality-technology-current-state-and-future-challenges-for-2024/"><u>Virtual Reality Technology Current State and Future Challenges for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-software-tips-enhancing-system-speed-with-effective-hard-drive-cleanup-strategies/"><u>YL Software Tips: Enhancing System Speed with Effective Hard Drive Cleanup Strategies</u></a></li>
 </ul></div>
 

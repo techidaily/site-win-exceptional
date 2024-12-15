@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step"
-date: 2024-12-07T22:37:34.462Z
-updated: 2024-12-09T00:20:57.517Z
+date: 2024-12-09T16:18:37.212Z
+updated: 2024-12-15T16:47:39.274Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ DEX 3 and RED Mobile 3 Default DJ Controller scripts are stored in: App folder (
 [Download DEX 3 Actions And Notifications Documentation](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,18 +52,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/scripting-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-5-high-quality-displays-for-unparalleled-games/"><u>[New] 2024 Approved 5 High-Quality Displays for Unparalleled Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-most-extensive-selection-of-free-illustrator-portals/"><u>[New] In 2024, The Most Extensive Selection of Free Illustrator Portals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-vrecorders-potential-quick-download-and-install/"><u>[Updated] Unlocking VRecorder's Potential Quick Download & Install</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/can-you-rely-on-windows-defenders-live-shield-feature-exploring-its-effectiveness-with-yl-computing/"><u>Can You Rely on Windows Defender's Live Shield Feature? Exploring Its Effectiveness with YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/easy-steps-to-tailor-your-desktop-experience-with-yl-computings-customization-toolkit/"><u>Easy Steps to Tailor Your Desktop Experience with YL Computing's Customization Toolkit</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-gaming-innovation-showcase/"><u>IFA 2023 Gaming Innovation Showcase</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/keep-your-graphics-card-safe-from-heat-damage-essential-advice-for-gamers-and-designers-yl-software-insights/"><u>Keep Your Graphics Card Safe From Heat Damage: Essential Advice for Gamers and Designers - YL Software Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-empowers-staff-with-team-upgrades-a-bold-move-by-zdnet/"><u>Microsoft Empowers Staff with Team Upgrades - A Bold Move by ZDNet</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/simple-file-backup-techniques-on-windows-with-yl-computings-solutions/"><u>Simple File Backup Techniques on Windows with YL Computing's Solutions</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-tweaking-your-pcs-audio-and-peripherals-via-windows-control-panel-expert-tips-from-yl-software/"><u>Step-by-Step Guide: Tweaking Your PC's Audio & Peripherals via Windows Control Panel - Expert Tips From YL Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-decreasing-bitrate-in-high-quality-obs/"><u>[New] In 2024, Decreasing Bitrate in High-Quality OBS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-employment-and-video-content-creation/"><u>[New] Navigating Employment and Video Content Creation</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/expert-tips-on-adjusting-pc-power-management-for-enhanced-efficiency-by-yl-software-experts/"><u>Expert Tips on Adjusting PC Power Management for Enhanced Efficiency by YL Software Experts</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/impact-of-the-sino-soviet-rift-on-chinas-role-in-cold-war-dynamics-insights-by-yl-computing-and-software-solutions/"><u>Impact of the Sino-Soviet Rift on China's Role in Cold War Dynamics - Insights by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tigating-the-economics-of-t-series-on-youtube/"><u>Investigating the Economics of T-Series on YouTube</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/mastering-windows-11-the-ultimate-how-to-for-installing-programs-featuring-advice-from-yl-software-experts/"><u>Mastering Windows 11: The Ultimate How-To for Installing Programs, Featuring Advice From YL Software Experts</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/printer-not-showing-up-discover-solutions-for-undetected-devices-with-yl-software-advice/"><u>Printer Not Showing Up? Discover Solutions for Undetected Devices with YL Software Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-rpcrt4dll-error-a-comprehensive-guide/"><u>Solving rpcrt4.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-translation-titan-gpts-role-in-natural-language-understanding/"><u>The Translation Titan: GPT's Role in Natural Language Understanding</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/troubleshooting-and-repairing-your-pcs-video-card-malfunctions-with-yl-computing-guidance/"><u>Troubleshooting and Repairing Your PC's Video Card Malfunctions with YL Computing Guidance</u></a></li>
+<li><a href="https://win-web3.techidaily.com/upgrade-your-ebook-cover-easy-techniques-for-converting-a-softcover-book-design-into-hardcover-format-using-flipbuilder/"><u>Upgrade Your eBook Cover: Easy Techniques for Converting a Softcover Book Design Into Hardcover Format Using FlipBuilder</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor X50i? | Dr.fone</u></a></li>
 </ul></div>
 

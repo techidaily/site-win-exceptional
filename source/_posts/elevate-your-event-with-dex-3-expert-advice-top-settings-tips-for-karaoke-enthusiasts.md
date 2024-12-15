@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Event with DEX 3 Expert Advice: Top Settings Tips for Karaoke Enthusiasts"
-date: 2024-12-04T02:32:55.705Z
-updated: 2024-12-08T22:45:33.988Z
+date: 2024-12-10T16:30:16.657Z
+updated: 2024-12-15T16:09:56.129Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Below you will find our suggested settings and configuration for using DEX 3 for
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suggestion Configuration for Hosting Karaoke with DEX 3
@@ -39,7 +39,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 karaoke mode](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke.jpg?fit=900%2C307&ssl=1 "DEX 3 karaoke mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. **Enable the Case player as the Filler Music Player:** Go into DEX 3’s options, under the Karaoke tab, and put a tick in the box for “use case/preview player as background/filler music player”. This will allow you to use the regular sidelist (not the Karaoke Rotation list) for automatic filler music playback. From the same Karaoke tab in options, you can also adjust the filler music volume level. Many customers prefer to lower the volume of the filler music player a few decibels so that playback is a bit quieter than when playing karaoke songs.
@@ -49,7 +49,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![Key Stepper DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke-keystepper.jpg?fit=900%2C307&ssl=1 "Key Stepper DEX 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. **Enable Detect Musical Key and Detect Automatic Gain:** Also located under the General tab in options, tick the boxes for both “Detect Musical Key” and “Detect Automatic Gain”. Detect Musical Key will allow DEX 3 to automatically calculate the musical key of the track (as well as a modified Camelot Scale key) of the track. Detect Automatic Gain will ensure DEX 3 plays all tracks at the same output gain level.
@@ -57,7 +57,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 musical key and gain](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-musicalkey-gain.jpg?fit=900%2C307&ssl=1 "DEX 3 musical key and gain")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. **Show Your Company Logo on Screen with Opacity:** Optional of course, but you can easily use DEX 3’s overlays feature to display your own logo at all times on screen with varied levels of opacity.
@@ -65,7 +65,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 That should assist you greatly with configuring DEX 3 for karaoke hosting purposes. Please review the following videos for additional help with all of the latest karaoke features added to DEX 3.11 (and up)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,24 +87,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/DEX3-config-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-your-channels-free-tips-for-youtube-video-popularity/"><u>[New] In 2024, Boosting Your Channels Free Tips for YouTube Video Popularity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-tools-for-filmmakers-mirrorless-cameras-(1000-for-2024/"><u>[Updated] Essential Tools for Filmmakers Mirrorless Cameras <$1,000 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-understanding-electric-motorcycle-systems/"><u>A Comprehensive Guide to Understanding Electric Motorcycle Systems</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/can-i-improve-my-pcs-performance-with-new-hardware-components-expert-advice-from-yl-computing/"><u>Can I Improve My PC's Performance with New Hardware Components? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/effective-strategies-for-adjusting-power-settings-in-windows-via-the-control-panel-tips-from-yl-computing/"><u>Effective Strategies for Adjusting Power Settings in Windows via the Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-completely-remove-your-data-from-a-windows-pc-safely-and-without-cost-expert-tips-and-tricks/"><u>How to Completely Remove Your Data From a Windows PC Safely and Without Cost - Expert Tips & Tricks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-v-purse-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor V Purse Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-your-mobile-at-50-explore-ransomware-solutions-and-discover-chatgpts-influence-in-our-podcast/"><u>Protect Your Mobile at $50: Explore Ransomware Solutions and Discover ChatGPT’s Influence in Our Podcast</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/protect-your-pc-with-ease-comprehensive-instructions-for-using-windows-defender-advice-by-yl-software-experts/"><u>Protect Your PC with Ease: Comprehensive Instructions for Using Windows Defender - Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/reinstating-your-devices-driver-expert-guide-by-yl-computing/"><u>Reinstating Your Device's Driver: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/revolutionizing-resource-management-the-impact-of-yl-computing-on-mining-sector-efficiencies/"><u>Revolutionizing Resource Management: The Impact of YL Computing on Mining Sector Efficiencies</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-new-beast-revealed-discover-the-top-attributes-of-the-powerful-ps5-pro-its-cost-launch-timeline-and-more-insights-detailed-analysis-by-techzoo/"><u>Sony's New Beast Revealed: Discover the Top Attributes of the Powerful PS5 Pro, Its Cost, Launch Timeline, and More Insights - Detailed Analysis by TechZoo</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-customizing-your-personal-information-security-settings-via-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Customizing Your Personal Information Security Settings via Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-hardware-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights on Hardware and Gadgets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transition-tunes-mastering-crossfading-in-music/"><u>Transition Tunes Mastering Crossfading in Music</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/windows-defender-vs-traditional-antivirus-understanding-their-key-distinctions-in-depth-guide-by-yl-computing/"><u>Windows Defender vs Traditional Antivirus: Understanding Their Key Distinctions - In Depth Guide by YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-softwares-exquisite-hd-freshwater-beauty-download-water-lily-wallpapers-and-splash-your-screen-with-elegance/"><u>YL Software's Exquisite HD Freshwater Beauty: Download Water Lily Wallpapers and Splash Your Screen with Elegance!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-softwares-guide-to-shielding-from-cryptocurrency-deception-and-fraud/"><u>YL Software's Guide to Shielding From Cryptocurrency Deception and Fraud</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-instagram-shots-with-strategic-borders/"><u>[New] In 2024, Elevate Your Instagram Shots With Strategic Borders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubes-most-watched-wonders-the-ultimate-guide-for-2024/"><u>[New] YouTube’s Most-Watched Wonders The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/acer-aspire-e15-windows-10-driver-download-latest-versions-available/"><u>Acer Aspire E15 Windows 10 Driver Download - Latest Versions Available</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/boosting-computer-performance-with-key-maintenance-tips-discover-best-practices-at-yl-software/"><u>Boosting Computer Performance with Key Maintenance Tips - Discover Best Practices at YL Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1925423-9781782790211-breaking-the-mother-goose-code/"><u>Breaking the Mother Goose Code | Free Book</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/explore-stunningly-detailed-minnie-mouse-graphics-and-hd-backgrounds-for-your-device-curated-by-yl-software-solutions/"><u>Explore Stunningly Detailed Minnie Mouse Graphics & HD Backgrounds for Your Device, Curated by YL Software Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-105-classic-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia 105 Classic Quickly | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-moving-10-best-free-video-speed-changer-apps-for-iphone-and-android/"><u>Get Moving 10 Best Free Video Speed Changer Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/identifying-and-solving-pc-overheat-issues-expert-advice-from-yl-computings-specialists/"><u>Identifying and Solving PC Overheat Issues: Expert Advice From YL Computing's Specialists</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-gaps-in-documents-with-new-fixes/"><u>No More Gaps in Documents with New Fixes</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/protect-your-pc-essential-tips-for-avoiding-malware-and-viruses-guided-by-yl-computing-experts/"><u>Protect Your PC: Essential Tips for Avoiding Malware and Viruses - Guided by YL Computing Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-runescape-crash-problems-for-smooth-gaming/"><u>Resolving Persistent RuneScape Crash Problems for Smooth Gaming</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/the-unpredictable-dance-of-the-gold-market-strategies-for-goldsmiths-to-shield-againnst-fluctuations-insights-from-industry-leaders-at-yl-software/"><u>The Unpredictable Dance of the Gold Market: Strategies for Goldsmiths to Shield Againnst Fluctuations – Insights From Industry Leaders at YL Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-list-of-highest-rated-free-video-editing-apps-for-idevices/"><u>Ultimate List of Highest-Rated Free Video Editing Apps for iDevices</u></a></li>
 </ul></div>
 
