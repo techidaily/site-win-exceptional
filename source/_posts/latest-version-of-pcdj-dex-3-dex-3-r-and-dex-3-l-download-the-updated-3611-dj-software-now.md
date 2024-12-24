@@ -1,7 +1,7 @@
 ---
 title: Latest Version of PCDJ (DEX 3, DEX 3 R & DEX 3 L) - Download the Updated 3.6.1.1 DJ Software Now
-date: 2024-12-10T16:26:09.317Z
-updated: 2024-12-15T16:29:02.775Z
+date: 2024-12-18T00:25:52.180Z
+updated: 2024-12-24T02:34:47.507Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-sound-and-filter-integration-in-windows-10-photos-app/"><u>[New] Mastering Sound & Filter Integration in Windows 10 Photos App</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-flashy-game-collection-quick-and-lightweight/"><u>2024 Approved Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-photoshop-repair-programs-ranked-top-10-selections-for-apple-and-pc-devices/"><u>Discover the Leading Photoshop Repair Programs Ranked: Top 10 Selections for Apple and PC Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/earn-a-150-apple-gift-card-when-buying-your-next-mac-or-ipad-for-education-zdnet/"><u>Earn a $150 Apple Gift Card When Buying Your Next Mac or iPad for Education | ZDNet</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/exploring-the-historical-figure-behind-chinas-extensive-roadway-and-canal-infrastructure-a-profile-by-yl-computing/"><u>Exploring the Historical Figure Behind China's Extensive Roadway & Canal Infrastructure: A Profile by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/gifting-games-from-steam-a-guide-for-friends/"><u>Gifting Games From Steam: A Guide for Friends</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-can-you-restore-accidentally-deleted-files-from-an-excel-spreadsheet-on-a-windows-10-pc/"><u>How Can You Restore Accidentally Deleted Files From an Excel Spreadsheet on a Windows 10 PC?</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/identifying-issues-in-fluctuating-hardware-efficiency-a-guide-from-yl-computing/"><u>Identifying Issues in Fluctuating Hardware Efficiency: A Guide From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-amd-gpio-driver-available-for-instant-download/"><u>Latest AMD GPIO Driver Available for Instant Download</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/master-your-peripherals-configuring-mice-and-keyboards-with-expert-advice-from-yl-software/"><u>Master Your Peripherals: Configuring Mice & Keyboards with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/overcoming-recurring-system-lockups-with-expert-advice-from-yl-computing-and-yl-software/"><u>Overcoming Recurring System Lockups with Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/pcdj-red-mobile-2-the-ultimate-user-friendly-dj-app-for-on-the-go-mixing/"><u>PCDJ RED Mobile 2: The Ultimate User-Friendly DJ App for On-the-Go Mixing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/printer-setup-problems-a-step-by-step-guide-to-resolving-common-issues-yl-computings-expert-solutions/"><u>Printer Setup Problems: A Step-by-Step Guide to Resolving Common Issues - YL Computing's Expert Solutions</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/top-tools-for-detecting-and-repairing-windows-memory-issues-discover-the-best-solutions-from-yl-computing/"><u>Top Tools for Detecting & Repairing Windows Memory Issues - Discover the Best Solutions From YL Computing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unveiling-secrets-with-enhanced-scopes-in-roblox-games/"><u>Unveiling Secrets with Enhanced Scopes in Roblox Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/virtual-reality-technology-current-state-and-future-challenges-for-2024/"><u>Virtual Reality Technology Current State and Future Challenges for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-software-tips-enhancing-system-speed-with-effective-hard-drive-cleanup-strategies/"><u>YL Software Tips: Enhancing System Speed with Effective Hard Drive Cleanup Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-blending-beats-posting-tunes-on-digital-diaries/"><u>[New] In 2024, Blending Beats Posting Tunes on Digital Diaries</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-beyond-reality-reviewing-lgs-virtual-vision/"><u>[New] Step Beyond Reality Reviewing LG's Virtual Vision</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-youtube-management-by-studio-techniques/"><u>[Updated] The Art of YouTube Management by Studio Techniques</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1-best-free-windows-data-recovery-tools-comprehensive-guide-by-yl-computing/"><u>1. Best Free Windows Data Recovery Tools: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/budget-friendly-cloud-strategies-revealed-for-2024/"><u>Budget-Friendly Cloud Strategies Revealed for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iently-uploading-youtube-vids-to-insta-profile-for-2024/"><u>Efficiently Uploading YouTube Vids to Insta Profile for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/enhance-performance-by-turning-off-unnecessary-browser-extensions-tips-from-yl-computing/"><u>Enhance Performance by Turning Off Unnecessary Browser Extensions - Tips From YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/essential-guide-building-custom-dex-3-controllers-with-pure-data-and-javascript-step-by-step/"><u>Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/evaluating-the-capabilities-of-windows-defender-in-cybersecurity-expert-analysis-from-yl-software/"><u>Evaluating the Capabilities of Windows Defender in Cybersecurity - Expert Analysis From YL Software</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/explore-the-cosmos-with-yl-softwares-professional-space-imagery-collection-crisp-hd-photos-and-vivid-wallpapers-for-your-digital-canvas/"><u>Explore the Cosmos with YL Software's Professional Space Imagery Collection – Crisp HD Photos and Vivid Wallpapers for Your Digital Canvas</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guaranteeing-your-information-security-essential-steps-by-yl-computing-and-software-solutions/"><u>Guaranteeing Your Information Security: Essential Steps by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X100 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-fix-a-non-responsive-scanner-expert-tips-from-yl-computings-scanning-solutions/"><u>How to Fix a Non-Responsive Scanner: Expert Tips From YL Computing's Scanning Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-phantom-v-fold-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Phantom V Fold Phone that is Locked?</u></a></li>
+<li><a href="https://win-web.techidaily.com/identifying-signs-of-hardware-malfunction-a-guide-by-yl-computing-and-yl-software/"><u>Identifying Signs of Hardware Malfunction: A Guide by YL Computing and YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-software-tips-knowing-when-to-swap-out-your-systems-power-source/"><u>YL Software Tips: Knowing When to Swap Out Your System’s Power Source</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-softwares-guide-to-shrinking-your-sound-files-a-comprehensive-tutorial/"><u>YL Software's Guide to Shrinking Your Sound Files: A Comprehensive Tutorial</u></a></li>
 </ul></div>
 
