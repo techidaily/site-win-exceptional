@@ -1,7 +1,7 @@
 ---
 title: Latest Version of PCDJ (DEX 3, DEX 3 R & DEX 3 L) - Download the Updated 3.6.1.1 DJ Software Now
-date: 2024-12-18T00:25:52.180Z
-updated: 2024-12-24T02:34:47.507Z
+date: 2024-12-28T20:42:22.563Z
+updated: 2024-12-29T18:24:29.495Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-blending-beats-posting-tunes-on-digital-diaries/"><u>[New] In 2024, Blending Beats Posting Tunes on Digital Diaries</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-beyond-reality-reviewing-lgs-virtual-vision/"><u>[New] Step Beyond Reality Reviewing LG's Virtual Vision</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-youtube-management-by-studio-techniques/"><u>[Updated] The Art of YouTube Management by Studio Techniques</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1-best-free-windows-data-recovery-tools-comprehensive-guide-by-yl-computing/"><u>1. Best Free Windows Data Recovery Tools: Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://article-files.techidaily.com/budget-friendly-cloud-strategies-revealed-for-2024/"><u>Budget-Friendly Cloud Strategies Revealed for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/iently-uploading-youtube-vids-to-insta-profile-for-2024/"><u>Efficiently Uploading YouTube Vids to Insta Profile for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/enhance-performance-by-turning-off-unnecessary-browser-extensions-tips-from-yl-computing/"><u>Enhance Performance by Turning Off Unnecessary Browser Extensions - Tips From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/essential-guide-building-custom-dex-3-controllers-with-pure-data-and-javascript-step-by-step/"><u>Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/evaluating-the-capabilities-of-windows-defender-in-cybersecurity-expert-analysis-from-yl-software/"><u>Evaluating the Capabilities of Windows Defender in Cybersecurity - Expert Analysis From YL Software</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/explore-the-cosmos-with-yl-softwares-professional-space-imagery-collection-crisp-hd-photos-and-vivid-wallpapers-for-your-digital-canvas/"><u>Explore the Cosmos with YL Software's Professional Space Imagery Collection – Crisp HD Photos and Vivid Wallpapers for Your Digital Canvas</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/guaranteeing-your-information-security-essential-steps-by-yl-computing-and-software-solutions/"><u>Guaranteeing Your Information Security: Essential Steps by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X100 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-to-fix-a-non-responsive-scanner-expert-tips-from-yl-computings-scanning-solutions/"><u>How to Fix a Non-Responsive Scanner: Expert Tips From YL Computing's Scanning Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-phantom-v-fold-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Phantom V Fold Phone that is Locked?</u></a></li>
-<li><a href="https://win-web.techidaily.com/identifying-signs-of-hardware-malfunction-a-guide-by-yl-computing-and-yl-software/"><u>Identifying Signs of Hardware Malfunction: A Guide by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-software-tips-knowing-when-to-swap-out-your-systems-power-source/"><u>YL Software Tips: Knowing When to Swap Out Your System’s Power Source</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-softwares-guide-to-shrinking-your-sound-files-a-comprehensive-tutorial/"><u>YL Software's Guide to Shrinking Your Sound Files: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-masterful-moments-a-deep-dive-into-youtube-to-facebook-sharing/"><u>[New] 2024 Approved Masterful Moments A Deep Dive Into YouTube-to-Facebook Sharing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-igtv-content-editing-titles-and-descriptions-for-2024/"><u>[New] Enhancing IGTV Content Editing Titles & Descriptions for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-dells-online-experience-by-quickly-downloading-its-most-recent-wifi-networking-driver/"><u>Enhance Your Dell's Online Experience by Quickly Downloading Its Most Recent WiFi Networking Driver</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/enhancing-pc-performance-proven-tips-and-tricks-by-the-experts-at-yl-software/"><u>Enhancing PC Performance: Proven Tips & Tricks by the Experts at YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/high-resolution-wallpaper-collection-stunning-hd-images-and-photography-by-yl-computing/"><u>High-Resolution Wallpaper Collection: Stunning HD Images & Photography by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-v2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic V2 Phone without PIN</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x-flipfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X FlipFRP Lock</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/restoring-your-systems-visual-power-expert-tips-on-repairing-graphics-cards-with-yl-software/"><u>Restoring Your System's Visual Power: Expert Tips on Repairing Graphics Cards with YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-restrict-access-to-specific-sites-with-your-windows-control-panel-techtutorials-by-yl/"><u>Step-by-Step Guide: Restrict Access to Specific Sites with Your Windows Control Panel - TechTutorials by YL</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-level-of-driving-comfort-mercedes-ai-upgrade/"><u>The Next Level of Driving Comfort: Mercedes' AI Upgrade</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-secrets-to-increasing-views-in-60-second-youtube-shorts-for-2024/"><u>Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-computings-gorilla-graphics-the-ultimate-wallpaper-collection/"><u>YL Computing's Gorilla Graphics: The Ultimate Wallpaper Collection</u></a></li>
 </ul></div>
 

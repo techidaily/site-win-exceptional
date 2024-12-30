@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Blog Promotion on Social Networks in 2009: Comprehensive Techniques Powered by Massmail"
-date: 2024-12-14T16:13:14.145Z
-updated: 2024-12-15T16:28:18.658Z
+date: 2024-12-29T01:01:30.264Z
+updated: 2024-12-29T21:18:09.636Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,10 +35,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,10 +50,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -74,6 +62,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,17 +74,9 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -102,25 +86,37 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-mobile-methods-download-gifs-from-twitter-on-devices-for-2024/"><u>[New] Mobile Methods Download GIFs From Twitter on Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-constructing-attention-grabbing-trailers-for-youtube-for-2024/"><u>[Updated] Constructing Attention-Grabbing Trailers for YouTube for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/can-i-improve-my-pcs-performance-with-new-hardware-components-expert-advice-from-yl-computing/"><u>Can I Improve My PC's Performance with New Hardware Components? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/ditch-dullness-boosting-speed-in-android-videos/"><u>Ditch Dullness Boosting Speed in Android Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-the-xvid-video-encoder-free-compatible-with-mac-quicktime-and-vlc/"><u>Download the Xvid Video Encoder Free: Compatible with Mac, QuickTime & VLC</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/effective-strategies-for-adjusting-power-settings-in-windows-via-the-control-panel-tips-from-yl-computing/"><u>Effective Strategies for Adjusting Power Settings in Windows via the Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/revolutionizing-resource-management-the-impact-of-yl-computing-on-mining-sector-efficiencies/"><u>Revolutionizing Resource Management: The Impact of YL Computing on Mining Sector Efficiencies</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-customizing-your-personal-information-security-settings-via-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Customizing Your Personal Information Security Settings via Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-new-possibilities-the-advantages-of-apples-expanded-nfc-functionality-to-app-developers-and-users-analyzed/"><u>Unlocking New Possibilities: The Advantages of Apple's Expanded NFC Functionality to App Developers and Users, Analyzed</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-softwares-guide-to-shielding-from-cryptocurrency-deception-and-fraud/"><u>YL Software's Guide to Shielding From Cryptocurrency Deception and Fraud</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-the-truth-about-sharex-reviews-and-options/"><u>[New] In 2024, Unveiling the Truth About ShareX Reviews & Options</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-no-cost-speedy-tips-for-exposing-deceptive-instagram-acquaintances-for-2024/"><u>[New] No-Cost, Speedy Tips for Exposing Deceptive Instagram Acquaintances for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726026659828-youtube/"><u>完全無料: YouTubeのビデオからオーディオのみダウンロードの簡単な方法</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/boost-your-pcs-speed-and-efficiency-expert-tips-by-yl-computing-top-strategies-for-enhanced-system-performance/"><u>Boost Your PC's Speed and Efficiency: Expert Tips by YL Computing - Top Strategies for Enhanced System Performance</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/customizing-your-computers-display-changing-background-and-theme-settings-according-to-yl-software-experts/"><u>Customizing Your Computer's Display: Changing Background & Theme Settings, According to YL Software Experts</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ensuring-longevity-strategies-to-protect-against-graphics-card-failures-expert-advice-from-hardwarehive/"><u>Ensuring Longevity: Strategies to Protect Against Graphics Card Failures - Expert Advice From HardwareHive</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/exploring-the-benefits-of-digital-vs-conventional-money-insights-from-yl-computings-perspective/"><u>Exploring the Benefits of Digital Vs. Conventional Money: Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy M34 FRP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-honor-100-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor 100 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-y200-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo Y200 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-low-budget-filmmaking-toolkit-7-software-you-need/"><u>New 2024 Approved The Ultimate Low-Budget Filmmaking Toolkit 7 Software You Need</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/supercharge-your-lagging-laptop-effective-strategies-by-yl-software-specialists/"><u>Supercharge Your Lagging Laptop: Effective Strategies by YL Software Specialists</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/understanding-the-reasons-behind-your-laptops-heating-issues-a-guide-from-yl-software-experts/"><u>Understanding the Reasons Behind Your Laptop's Heating Issues: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-steps-to-remove-unnecessary-programs/"><u>YL Computing's Guide: Steps to Remove Unnecessary Programs</u></a></li>
 </ul></div>
 

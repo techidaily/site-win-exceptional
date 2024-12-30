@@ -1,7 +1,7 @@
 ---
 title: "Stream Smart: Effective Techniques to Enhance DJ Setups Using DEX on SoundCloud"
-date: 2024-12-19T21:47:21.218Z
-updated: 2024-12-24T09:48:51.644Z
+date: 2024-12-27T22:59:31.401Z
+updated: 2024-12-30T00:08:39.601Z
 tags:
   - product
 categories:
@@ -20,36 +20,32 @@ This week we [announced our new partnership with SoundCloud](https://tools.techi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Download the SoundCloud App for iOS or Android to Create Playlists whenever or wherever you’re Inspired
 
 ![SoundCloud on iOS](https://i1.wp.com/pcdj.com/wp-content/uploads/2019/05/640.png?fit=169%2C300&ssl=1 "SoundCloud on iOS")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 SoundCloud Go+ offers worlds’ largest streaming catalog with over 200 million songs, which includes both premium tracks from popular artists and underground tracks from up and coming artists and producers. The app, available for both iOS and Android, offers music discovery tools to help you find new music to work into your sets, along with the ability to create playlists on-the-go.
 
 No matter where you are; commuting on a train to work, meeting with the bride before their special day, or in the club listening to another DJ throw down a killer set, you can pull your phone out of your pocket, pop open the app and create playlists that will automatically synchronize with the DEX 3 database. Get back to the house, fire up your laptop and pop open DEX 3 — boom, there’s you’re playlist, ready to stream and mix. Get [SoundCloud for iOS](https://itunes.apple.com/us/app/soundcloud-music-audio/id336353151?mt=8) Get [SoundCloud for Android](https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en%5FUS)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Refresh Playlists in DEX 3 for On-The-Fly Updates
 
 ![refresh SoundCloud playlists in DEX 3 DJ Software](https://i0.wp.com/pcdj.com/wp-content/uploads/2019/05/DEX3-refreshplaylists.jpg?fit=300%2C300&ssl=1 "refresh SoundCloud playlists in DEX 3 DJ Software")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re working on a creating a playlist for a set using the SoundCloud website with DEX 3 open you can refresh playlists on the fly.
 
 Simply right click (CTRL+CLICK on MAC) on the text “Playlists” under the SoundCloud tab located on the left side of the DEX 3 browser and select “Refresh Playlists”. Doing so will scan for changes and updates applied on the SoundCloud website and immediately update DEX 3, displaying any new playlists created on the website (or via the app) and any freshly added tracks there within.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Struggling with Playlist Creation? Use the SoundCloud Charts
@@ -57,7 +53,7 @@ Simply right click (CTRL+CLICK on MAC) on the text “Playlists” under the Sou
 ![SoundCloud Music Charts for DJs](https://i0.wp.com/pcdj.com/wp-content/uploads/2019/05/sc-charts.jpg?fit=300%2C300&ssl=1 "SoundCloud Music Charts for DJs")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Getting stumped during playlist creation? Thankfully, SoundCloud offers tools for music discovery including curated charts in all genres.
@@ -67,6 +63,10 @@ Music Charts come in all varieties, such as “The Bridge – Music to get you t
 There you have it, 3 Pro Tips to help you get started with using SoundCloud Go+ with DEX 3\. **Stay tuned, _there will be more!_**
 
 **_Have questions about DEX 3 and SoundCloud Go+ streaming? Please leave them in the comments section below!_**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -87,19 +87,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/05/soundcloud-go-dex3-protips
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-strategies-to-mute-facebook-ads-on-videos/"><u>[Updated] In 2024, Strategies to Mute Facebook Ads on Videos</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/connectez-onedrive-avec-lexplorateur-windows-des-tutoriels-complets-pour-4-techniques-simples/"><u>Connectez OneDrive Avec L'Explorateur Windows : Des Tutoriels Complets Pour 4 Techniques Simples</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/corrupt-system-file-recovery-solutions-by-yl-software/"><u>Corrupt System File Recovery Solutions by YL Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-for-windows-1187/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers for Windows 11/8/7</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/edit-and-elevate-instagrams-ultimate-toolkit/"><u>Edit & Elevate Instagram's Ultimate Toolkit</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-faulty-hardware-configurations-lead-to-graphics-card-malfunctions-expert-advice-from-yl-computing/"><u>How Faulty Hardware Configurations Lead to Graphics Card Malfunctions - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-monitor-brightness-problems/"><u>Resolving Lenovo Monitor Brightness Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-reconnecting-your-media-on-windows-devices/"><u>Step-by-Step Solutions: Reconnecting Your Media on Windows Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ideal-13-inch-portable-work-computer-alternative-to-dell-xps-and-macbook-expert-review/"><u>Top Pick: The Ideal 13-Inch Portable Work Computer Alternative to Dell XPS and MacBook - Expert Review</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-reasons-behind-hard-drive-malfunctions-insights-from-yl-computing/"><u>Understanding the Reasons Behind Hard Drive Malfunctions: Insights From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/unveiling-significant-cultural-transformations-during-chinas-last-imperial-dynasty-a-comprehensive-study/"><u>Unveiling Significant Cultural Transformations During China's Last Imperial Dynasty - A Comprehensive Study</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-computings-step-by-step-tutorial-for-administering-user-profiles-in-windows-10/"><u>YL Computing's Step-by-Step Tutorial for Administering User Profiles in Windows 10</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-software-is-their-digital-coin-balance-monitoring-service-free-or-paid/"><u>YL Software: Is Their Digital Coin Balance Monitoring Service Free or Paid?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-strategic-approaches-to-googles-podcast-submission-protocol-for-2024/"><u>[New] Strategic Approaches to Google’s Podcast Submission Protocol for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-quieter-audio-with-progressive-volume-reduction-in-lumafusion/"><u>2024 Approved Mastering Quieter Audio with Progressive Volume Reduction in Lumafusion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-motorola-moto-g23-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Motorola Moto G23 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/capturing-moments-like-never-before-toolwiz-apps-2023-review-for-2024/"><u>Capturing Moments Like Never Before Toolwiz App's 2023 Review for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/enhancing-pc-performance-proven-tips-and-tricks-by-the-experts-at-yl-software/"><u>Enhancing PC Performance: Proven Tips & Tricks by the Experts at YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/high-resolution-wallpaper-collection-stunning-hd-images-and-photography-by-yl-computing/"><u>High-Resolution Wallpaper Collection: Stunning HD Images & Photography by YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-12-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 12?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-14-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/restoring-your-systems-visual-power-expert-tips-on-repairing-graphics-cards-with-yl-software/"><u>Restoring Your System's Visual Power: Expert Tips on Repairing Graphics Cards with YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-restrict-access-to-specific-sites-with-your-windows-control-panel-techtutorials-by-yl/"><u>Step-by-Step Guide: Restrict Access to Specific Sites with Your Windows Control Panel - TechTutorials by YL</u></a></li>
 </ul></div>
 

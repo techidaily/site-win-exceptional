@@ -1,7 +1,7 @@
 ---
 title: "Small Business Survival Blueprint During Covid-19: Leveraging MassMail Tools and Techniques"
-date: 2024-12-09T16:38:23.251Z
-updated: 2024-12-15T16:46:01.565Z
+date: 2024-12-28T02:06:46.035Z
+updated: 2024-12-29T21:31:16.571Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -53,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,29 +82,21 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,21 +106,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-guide-how-to-automate-recording-of-your-google-gatherings/"><u>[New] Effortless Guide How to Automate Recording of Your Google Gatherings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-a-comprehensive-tutorial-on-vimeo-in-insta/"><u>[New] In 2024, A Comprehensive Tutorial on Vimeo in Insta</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capturing-the-ultimate-xbox-experience-a-screen-recorders-manual/"><u>[Updated] In 2024, Capturing the Ultimate Xbox Experience A Screen Recorder's Manual</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-vanquish-virtual-spectators-boosting-youtube-traffic/"><u>[Updated] In 2024, Vanquish Virtual Spectators Boosting YouTube Traffic</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-avatar-genius-the-easy-guide-to-metaverse-creation/"><u>2024 Approved Avatar Genius The Easy Guide to Metaverse Creation</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/discover-the-start-date-of-the-initial-opium-conflict-insights-by-yl-computing/"><u>Discover the Start Date of the Initial Opium Conflict: Insights by YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/elevate-your-game-night-experience-and-earn-more-essential-software-for-hosting-successful-trivia-parties/"><u>Elevate Your Game Night Experience & Earn More: Essential Software for Hosting Successful Trivia Parties</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/enhanced-karaoki-search-display-with-increased-rotation-preview-pcdj-update/"><u>Enhanced Karaoki Search Display with Increased Rotation Preview - PCDJ Update</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps-in-2024/"><u>Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps, In 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/font-management-for-windows-users-install-or-remove-easily-with-yl-softs-expert-advice/"><u>Font Management for Windows Users - Install or Remove Easily with YL Soft's Expert Advice</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-secure-is-storing-cryptocurrency-in-online-wallets-insights-from-yl-computing/"><u>How Secure Is Storing Cryptocurrency in Online Wallets? Insights From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-to-enhance-your-computers-performance-by-upgrading-its-memory-a-guide-yl-tech-insights/"><u>How To Enhance Your Computer's Performance By Upgrading Its Memory: A Guide - YL Tech Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-set-a-viral-song-as-your-phones-personal-melody-for-2024/"><u>How To Set a Viral Song as Your Phone's Personal Melody for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-competitive-edge-with-devops-best-practices-to-mitigate-risk-expertise-by-zdnet/"><u>Mastering the Art of Competitive Edge with DevOps Best Practices to Mitigate Risk | Expertise by ZDNET</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/optimize-your-system-efficiency-with-power-settings-navigating-the-control-panel-for-better-performance-the-yl-computing-manual/"><u>Optimize Your System Efficiency with Power Settings: Navigating the Control Panel for Better Performance - The YL Computing Manual</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/troubleshooting-game-performance-issues-related-to-your-graphics-card-guidance-from-yl-computing/"><u>Troubleshooting Game Performance Issues Related to Your Graphics Card - Guidance From YL Computing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/urgent-update-needed-microsoft-faces-critical-deadline-to-fix-windows-10-issues-by-next-year-cybernews-report/"><u>Urgent Update Needed: Microsoft Faces Critical Deadline to Fix Windows 10 Issues by Next Year | CyberNews Report</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-12-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 12 to PC | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-software-solutions-for-prolonged-laptop-battery-endurance-a-comprehensive-guide/"><u>YL Software Solutions for Prolonged Laptop Battery Endurance: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>[New] Best Practices Choosing the Top iOS Video Downloaders on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging/"><u>[Updated] 2024 Approved From Lens to Legacy Building a Lasting Career in Travel Blogging</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/norton/"><u>勝手に取り消されたファイルを再生するNorton不審な行動への解決法</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/estrategias-expertas-para-rescatar-informacion-de-un-disco-roto/"><u>Estrategias Expertas Para Rescatar Información De Un Disco Roto</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/fallo-al-localizar-la-particion-activa-durante-la-comprobacion-de-rango-de-almacenamiento-en-sistemas-operativos-windows-nx/"><u>Fallo Al Localizar La Partición Activa Durante La Comprobación De Rango De Almacenamiento en Sistemas Operativos Windows nX</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-steps-in-mastering-av1-coders/"><u>In 2024, First Steps in Mastering AV1 Coders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphones-burst-photography-techniques/"><u>IPhone's Burst Photography Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/la-guia-definitiva-de-winxvideo-ai-optimiza-registra-edita-y-comprime-videos-con-exito/"><u>La Guía Definitiva De Winxvideo AI: Optimiza, Registra, Edita Y Comprime Vídeos Con Éxito</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/mastering-clonezilla-a-comprehensive-look-at-gpt-vs-mbr-for-disk-partitioning-in-discordant-discs/"><u>Mastering Clonezilla: A Comprehensive Look at GPT Vs. MBR for Disk Partitioning in Discordant Discs</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tus-canciones-sin-costo-alguno-convertidor-en-linea-mp3-a-formato-m4r-por-expertos-movavi/"><u>Transforma Tus Canciones Sin Costo Alguno: Convertidor en Línea MP3 a Formato M4R Por Expertos - Movavi</u></a></li>
 </ul></div>
 
