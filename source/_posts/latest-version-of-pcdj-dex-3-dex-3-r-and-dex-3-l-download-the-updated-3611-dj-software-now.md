@@ -1,7 +1,7 @@
 ---
 title: Latest Version of PCDJ (DEX 3, DEX 3 R & DEX 3 L) - Download the Updated 3.6.1.1 DJ Software Now
-date: 2024-12-28T20:42:22.563Z
-updated: 2024-12-29T18:24:29.495Z
+date: 2025-01-04T16:52:05.286Z
+updated: 2025-01-09T01:40:26.198Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-masterful-moments-a-deep-dive-into-youtube-to-facebook-sharing/"><u>[New] 2024 Approved Masterful Moments A Deep Dive Into YouTube-to-Facebook Sharing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-igtv-content-editing-titles-and-descriptions-for-2024/"><u>[New] Enhancing IGTV Content Editing Titles & Descriptions for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-dells-online-experience-by-quickly-downloading-its-most-recent-wifi-networking-driver/"><u>Enhance Your Dell's Online Experience by Quickly Downloading Its Most Recent WiFi Networking Driver</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/enhancing-pc-performance-proven-tips-and-tricks-by-the-experts-at-yl-software/"><u>Enhancing PC Performance: Proven Tips & Tricks by the Experts at YL Software</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/high-resolution-wallpaper-collection-stunning-hd-images-and-photography-by-yl-computing/"><u>High-Resolution Wallpaper Collection: Stunning HD Images & Photography by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-v2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic V2 Phone without PIN</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x-flipfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X FlipFRP Lock</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/restoring-your-systems-visual-power-expert-tips-on-repairing-graphics-cards-with-yl-software/"><u>Restoring Your System's Visual Power: Expert Tips on Repairing Graphics Cards with YL Software</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-restrict-access-to-specific-sites-with-your-windows-control-panel-techtutorials-by-yl/"><u>Step-by-Step Guide: Restrict Access to Specific Sites with Your Windows Control Panel - TechTutorials by YL</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-level-of-driving-comfort-mercedes-ai-upgrade/"><u>The Next Level of Driving Comfort: Mercedes' AI Upgrade</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-secrets-to-increasing-views-in-60-second-youtube-shorts-for-2024/"><u>Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-computings-gorilla-graphics-the-ultimate-wallpaper-collection/"><u>YL Computing's Gorilla Graphics: The Ultimate Wallpaper Collection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boost-your-images-advanced-online-photoshop-cropping-tips/"><u>[New] Boost Your Images Advanced Online Photoshop Cropping Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-convert-and-share-optimal-tools-for-youtube-to-avi-transfers-for-2024/"><u>[New] Convert & Share Optimal Tools for YouTube-to-AVI Transfers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-pc-sound-logging-with-x-recorder-software-for-2024/"><u>[Updated] Effortless PC Sound Logging with X-Recorder Software for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/breaking-the-freeze-reviving-your-obs-cam/"><u>Breaking the Freeze Reviving Your OBS Cam</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comment-resoudre-limpossibilite-de-visualiser-les-fichiers-recemment-ouverts-sous-ms-word-guide-complet-au-depannage/"><u>Comment Résoudre L’impossibilité De Visualiser Les Fichiers Récemment Ouverts Sous MS Word : Guide Complet Au Dépannage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/deconstructing-the-legal-framework-of-youtube-and-cc-licenses-for-2024/"><u>Deconstructing the Legal Framework of Youtube & CC Licenses for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/facil-como-la-mano-tres-soluciones-libres-para-hacer-una-copia-completa-de-tu-sistema-windows-11/"><u>Fácil Como La Mano: Tres Soluciones Libres Para Hacer Una Copia Completa De Tu Sistema Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/les-meilleures-outils-logiciels-pour-la-migration-des-donnees-entre-supports-hdd-ssd-usb-and-carte-memoire/"><u>Les Meilleures Outils Logiciels Pour La Migration Des Données Entre Supports HDD, SSD, USB & Carte Mémoire</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ultimate-no-cost-solutions-for-block-level-data-sync-software/"><u>Ultimate No-Cost Solutions for Block-Level Data Sync Software</u></a></li>
 </ul></div>
 

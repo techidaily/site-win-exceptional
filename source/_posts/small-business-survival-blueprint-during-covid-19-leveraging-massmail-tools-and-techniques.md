@@ -1,7 +1,7 @@
 ---
 title: "Small Business Survival Blueprint During Covid-19: Leveraging MassMail Tools and Techniques"
-date: 2024-12-28T02:06:46.035Z
-updated: 2024-12-29T21:31:16.571Z
+date: 2025-01-02T00:26:22.433Z
+updated: 2025-01-09T10:51:03.898Z
 tags:
   - product
 categories:
@@ -21,10 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -48,10 +44,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -59,7 +51,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -86,16 +82,24 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -106,21 +110,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,15 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>[New] Best Practices Choosing the Top iOS Video Downloaders on FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging/"><u>[Updated] 2024 Approved From Lens to Legacy Building a Lasting Career in Travel Blogging</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/norton/"><u>勝手に取り消されたファイルを再生するNorton不審な行動への解決法</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/estrategias-expertas-para-rescatar-informacion-de-un-disco-roto/"><u>Estrategias Expertas Para Rescatar Información De Un Disco Roto</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/fallo-al-localizar-la-particion-activa-durante-la-comprobacion-de-rango-de-almacenamiento-en-sistemas-operativos-windows-nx/"><u>Fallo Al Localizar La Partición Activa Durante La Comprobación De Rango De Almacenamiento en Sistemas Operativos Windows nX</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-first-steps-in-mastering-av1-coders/"><u>In 2024, First Steps in Mastering AV1 Coders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphones-burst-photography-techniques/"><u>IPhone's Burst Photography Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/la-guia-definitiva-de-winxvideo-ai-optimiza-registra-edita-y-comprime-videos-con-exito/"><u>La Guía Definitiva De Winxvideo AI: Optimiza, Registra, Edita Y Comprime Vídeos Con Éxito</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/mastering-clonezilla-a-comprehensive-look-at-gpt-vs-mbr-for-disk-partitioning-in-discordant-discs/"><u>Mastering Clonezilla: A Comprehensive Look at GPT Vs. MBR for Disk Partitioning in Discordant Discs</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transforma-tus-canciones-sin-costo-alguno-convertidor-en-linea-mp3-a-formato-m4r-por-expertos-movavi/"><u>Transforma Tus Canciones Sin Costo Alguno: Convertidor en Línea MP3 a Formato M4R Por Expertos - Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/giggles-galore-an-in-depth-look-at-the-goofy-film/"><u>'Giggles Galore' – An In-Depth Look at The Goofy Film</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-spiritual-soundtracks-finding-and-tuning-for-ringtones/"><u>[Updated] 2024 Approved Spiritual Soundtracks Finding & Tuning for Ringtones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>[Updated] Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/5aac5l2v5lplusu5asn5asw5o6l56gs56kf5yig5yy677ya5asx5y675pww5o2u5zco55qe5pwr5yqp6kgm5yqo5pa55rov/"><u>如何修复外接硬碟分区：失去数据后的救助行动方法</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/backup-e-ripristino-di-un-computer-con-configurazione-hardware-diversa-avvio-sicuro/"><u>Backup E Ripristino Di Un Computer Con Configurazione Hardware Diversa - Avvio Sicuro</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/boost-your-pcs-speed-on-windows-11-by-turning-off-non-essential-boot-programs/"><u>Boost Your PC's Speed on Windows 11 by Turning Off Non-Essential Boot Programs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/c-span-video-streaming-without-a-paid-subscription-for-2024/"><u>C-Span Video Streaming Without a Paid Subscription for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/como-restablecer-el-sistema-o-borrar-la-memoria-del-dispositivo-en-windows-10-y-11/"><u>Cómo Restablecer El Sistema O Borrar La Memoria Del Dispositivo en Windows 10 Y 11</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effortless-guide-to-correcting-the-unable-to-update-system-reserved-fault/"><u>Effortless Guide to Correcting the Unable-to-Update System Reserved Fault</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-magic-of-govee-glide-hexa-light-panels-a-detailed-analysis-for-wall-mounted-ambiance/"><u>Experience the Magic of Govee Glide Hexa Light Panels - A Detailed Analysis for Wall-Mounted Ambiance</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-7-apps-for-smooth-youtube-live-broadcast-from-iphone-and-android-devices/"><u>Prime 7 Apps for Smooth YouTube Live Broadcast From iPhone & Android Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-reno-11f-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Reno 11F 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
 

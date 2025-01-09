@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Event with DEX 3 Expert Advice: Top Settings Tips for Karaoke Enthusiasts"
-date: 2024-12-23T18:36:42.326Z
-updated: 2024-12-30T00:02:25.982Z
+date: 2025-01-08T03:18:47.593Z
+updated: 2025-01-08T18:58:05.057Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Below you will find our suggested settings and configuration for using DEX 3 for
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suggestion Configuration for Hosting Karaoke with DEX 3
@@ -39,7 +39,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 karaoke mode](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke.jpg?fit=900%2C307&ssl=1 "DEX 3 karaoke mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. **Enable the Case player as the Filler Music Player:** Go into DEX 3’s options, under the Karaoke tab, and put a tick in the box for “use case/preview player as background/filler music player”. This will allow you to use the regular sidelist (not the Karaoke Rotation list) for automatic filler music playback. From the same Karaoke tab in options, you can also adjust the filler music volume level. Many customers prefer to lower the volume of the filler music player a few decibels so that playback is a bit quieter than when playing karaoke songs.
@@ -49,7 +49,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![Key Stepper DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke-keystepper.jpg?fit=900%2C307&ssl=1 "Key Stepper DEX 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. **Enable Detect Musical Key and Detect Automatic Gain:** Also located under the General tab in options, tick the boxes for both “Detect Musical Key” and “Detect Automatic Gain”. Detect Musical Key will allow DEX 3 to automatically calculate the musical key of the track (as well as a modified Camelot Scale key) of the track. Detect Automatic Gain will ensure DEX 3 plays all tracks at the same output gain level.
@@ -57,7 +57,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 musical key and gain](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-musicalkey-gain.jpg?fit=900%2C307&ssl=1 "DEX 3 musical key and gain")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. **Show Your Company Logo on Screen with Opacity:** Optional of course, but you can easily use DEX 3’s overlays feature to display your own logo at all times on screen with varied levels of opacity.
@@ -65,7 +65,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 That should assist you greatly with configuring DEX 3 for karaoke hosting purposes. Please review the following videos for additional help with all of the latest karaoke features added to DEX 3.11 (and up)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,19 +87,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/DEX3-config-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-gain-recovery-of-personal-snapshots-for-2024/"><u>[New] Gain Recovery of Personal Snapshots for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-innovative-tips-producing-instagram-ready-loop-videos/"><u>[Updated] In 2024, Innovative Tips Producing Instagram-Ready Loop Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/5-podcast-apps-for-iphone/"><u>5 Podcast Apps for iPhone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-hot-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Hot 40 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dictating-perfection-learning-spaniard-accent-patterns/"><u>Dictating Perfection: Learning Spaniard Accent Patterns</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/discover-the-start-date-of-the-initial-opium-conflict-insights-by-yl-computing/"><u>Discover the Start Date of the Initial Opium Conflict: Insights by YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/explore-stunning-hd-desert-scenes-with-photo-collections-premium-wallpaper-pack-innovative-designs-from-yl-computing/"><u>Explore Stunning HD Desert Scenes with Photo Collections – Premium Wallpaper Pack | Innovative Designs From YL Computing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/akers-pathway-to-anime-subscription-buttons-in-filmora/"><u>Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
-<li><a href="https://facebook.techidaily.com/leading-the-pack-with-these-10-unique-free-social-account-aides/"><u>Leading the Pack with These 10 Unique Free Social Account Aides</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/optimize-your-system-efficiency-with-power-settings-navigating-the-control-panel-for-better-performance-the-yl-computing-manual/"><u>Optimize Your System Efficiency with Power Settings: Navigating the Control Panel for Better Performance - The YL Computing Manual</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/resolving-the-notorious-blue-screen-of-death-in-windows-expert-advice-from-yl-software/"><u>Resolving the Notorious Blue Screen of Death in Windows: Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/troubleshooting-game-performance-issues-related-to-your-graphics-card-guidance-from-yl-computing/"><u>Troubleshooting Game Performance Issues Related to Your Graphics Card - Guidance From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unlocking-the-secrets-of-password-free-windows-11-system-recovery/"><u>Unlocking the Secrets of Password-Free Windows 11 System Recovery</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-profitability-blueprint-determining-key-view-counts/"><u>YouTube Profitability Blueprint Determining Key View Counts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-image-integration-apps-for-the-year-ahead/"><u>[New] Ideal Image Integration Apps for the Year Ahead</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/sionary-beauty-experts-leading-online-trends/"><u>10 Visionary Beauty Experts Leading Online Trends</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/festplattenproblem-warum-sie-leer-erscheinen-und-wie-sie-das-problem-beheben/"><u>Festplattenproblem: Warum Sie Leer Erscheinen Und Wie Sie Das Problem Beheben</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-a-guide-to-troubleshooting-sound-problems/"><u>Fixing Silent PCs: A Guide to Troubleshooting Sound Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60x-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60x 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-low-cost-high-definition-cameras/"><u>In 2024, Ultimate List Low-Cost, High Definition Cameras</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-retrieve-lost-footage-from-your-sd-card/"><u>Step-by-Step Guide: Retrieve Lost Footage From Your SD Card</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oppo-a56s-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A56s 5G</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/what-to-do-if-you-accidently-transformed-your-external-hdd-into-an-es-usb-expert-advice/"><u>What To Do If You Accidently Transformed Your External HDD Into an ES-USB: Expert Advice</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/hddwindows-server-201/"><u>スムーズなHDD移植：Windows Server 201#のためのガイド</u></a></li>
 </ul></div>
 
