@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step"
-date: 2025-01-09T16:30:41.606Z
-updated: 2025-01-15T03:03:32.077Z
+date: 2025-01-14T11:23:41.957Z
+updated: 2025-01-21T06:51:50.840Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ DEX 3 and RED Mobile 3 Default DJ Controller scripts are stored in: App folder (
 [Download DEX 3 Actions And Notifications Documentation](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,17 +52,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/scripting-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-maximize-collaboration-via-zooms-share-feature-for-2024/"><u>[New] Maximize Collaboration via Zoom's Share Feature for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-leveraging-youtubes-community-how-to-find-and-create-collab-videos/"><u>[Updated] 2024 Approved Leveraging YouTube's Community How to Find & Create Collab Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unlock-iphones-potential-download-itunes-radio-effortlessly/"><u>[Updated] Unlock iPhone's Potential Download iTunes Radio Effortlessly</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevating-your-videography-through-audio-storytelling/"><u>Elevating Your Videography Through Audio Storytelling</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/facil-como-la-mano-tres-soluciones-libres-para-hacer-una-copia-completa-de-tu-sistema-windows-11/"><u>Fácil Como La Mano: Tres Soluciones Libres Para Hacer Una Copia Completa De Tu Sistema Windows 11</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/funf-problemlosungen-wie-sie-zugang-zu-den-windows-sicherheitsfunktionen-auf-windows-11-gewinnen/"><u>Fünf Problemlösungen: Wie Sie Zugang Zu Den Windows-Sicherheitsfunktionen Auf Windows 11 Gewinnen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-smart-8-plus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Smart 8 Plus Without PUK Codes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-rugged-asus-chromebook-c202sa-ideal-choice-for-students-and-kids/"><u>In-Depth Review of the Rugged ASUS Chromebook C202SA: Ideal Choice for Students and Kids</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/recover-deleted-data-on-your-iphone-the-latest-techniques-of-2023/"><u>Recover Deleted Data on Your iPhone: The Latest Techniques of 2023</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728493197133-windows-10windows-11/"><u>Windows 10でのWindows 11への無償アップグレード手順</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/windows-11dell-inspiron-15-3000/"><u>Windows 11をサポートするDell Inspiron 15 3000シリーズのアップグレード可能性</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>2024 Approved Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/drei-effektive-strategien-zur-lokalisierten-datensicherung-unter-windows-11/"><u>Drei Effektive Strategien Zur Lokalisierten Datensicherung Unter Windows 11</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effacement-des-disques-amorcables-en-mode-installation-sous-les-systemes-windows-versions-11-10-8-et-7/"><u>Effacement Des Disques Amorçables en Mode Installation Sous Les Systèmes Windows (Versions 11, 10, 8 Et 7)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-magic-6-lite-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor Magic 6 Lite to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-filming-high-quality-camera-stabilizers-guide/"><u>In 2024, Precision in Filming High-Quality Camera Stabilizers Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/some-linux-distributions-also-offer-tools-like-startup-disk-creator-for-ubuntu-or-systemrescuecd-for-fedora-which-can-be-used-similarly-to-brasero-but-are-t187/"><u>Some Linux Distributions Also Offer Tools Like Startup Disk Creator for Ubuntu or SystemRescueCD for Fedora Which Can Be Used Similarly to Brasero but Are Tailored for Creating Boot Disks.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/star-wars-jedi-fallen-order-game-crashes-solutions-and-fixes-discovered/"><u>Star Wars Jedi: Fallen Order Game Crashes - Solutions and Fixes Discovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-comprehensive-guide-to-chatgpt-for-macos-users/"><u>The Comprehensive Guide to ChatGPT for macOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-essentials-android-must-improve-to-challenge-apples-ios-dominance-insights/"><u>Top 5 Essentials Android Must Improve to Challenge Apple's iOS Dominance: Insights</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/verborgene-instagram-bilder-finden-schritte-zum-wiederauffinden-verlorener-posts-auf-der-plattform/"><u>Verborgene Instagram-Bilder Finden - Schritte Zum Wiederauffinden Verlorener Posts Auf Der Plattform</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/windows-10115/"><u>Windows 10/11で自動的なリブートを止める方法：効果的な解決策5選</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-computings-ultimate-movie-folder-icon-set-enhance-your-digital-media-library/"><u>YL Computing's Ultimate Movie Folder Icon Set - Enhance Your Digital Media Library</u></a></li>
 </ul></div>
 

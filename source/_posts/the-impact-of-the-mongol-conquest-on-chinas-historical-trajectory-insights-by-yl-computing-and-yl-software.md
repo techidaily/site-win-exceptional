@@ -1,7 +1,7 @@
 ---
 title: The Impact of the Mongol Conquest on China's Historical Trajectory - Insights by YL Computing & YL Software
-date: 2025-01-11T17:53:20.787Z
-updated: 2025-01-14T18:53:44.259Z
+date: 2025-01-16T21:44:45.462Z
+updated: 2025-01-21T10:47:32.073Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,21 +56,17 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-youtube-revenue-the-unfavorable-guidelines-for-2024/"><u>[Updated] YouTube Revenue The Unfavorable Guidelines for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/44cm44co44ov44kh44kk44or44ks6kqt44g6l6844kt44gn44ge44kl44cp54q25owl44gn6ycy44kb44ga44cb44gp44gg44ke44gj44gm6kej5rg644gx44gplus44gz44gl77yf44cn/"><u>「『ファイルを読み込んでいる』状態で進めず、どうやって解決しますか？」</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1-easy-steps-to-securely-save-your-conversations-preserving-kik-chats-on-ios-devices/"><u>1. Easy Steps to Securely Save Your Conversations: Preserving Kik Chats on iOS Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-innovative-pathways-broadcasting-facebook-videos-via-whatsapp/"><u>2024 Approved Innovative Pathways Broadcasting Facebook Videos via WhatsApp</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/4-schritte-zur-wiederherstellung-von-daten-auf-einem-toshiba-flash-drive/"><u>4 Schritte Zur Wiederherstellung Von Daten Auf Einem Toshiba Flash Drive</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728475496463-404/"><u>404エラー・レスポンス - アクセスしたページは存在しない</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728480807712-windows-1011/"><u>高效重建：Windows 10/11系統下的刪除檔案回收技術講座</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-disruption-during-battle-how-to-keep-your-gears-5-experience-seamless-and-uninterrupted/"><u>Avoid Disruption During Battle: How to Keep Your Gears 5 Experience Seamless and Uninterrupted</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>Boost Your Buzz Telegram Tactics for Impactful Promotion</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-xiaomi-13t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi 13T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/explore-the-best-open-source-contenders-against-vmware-a-comprehensive-guide-with-5-picks/"><u>Explore the Best Open Source Contenders Against VMware – A Comprehensive Guide with 5 Picks</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/pemulihankan-berkas-wps-demikian-tutorial-bebas-rata-cara-simplen/"><u>Pemulihankan Berkas WPS Demikian: Tutorial Bebas Rata - Cara Simplen!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-podcast-summaries-strategies-and-case-studies-for-2024/"><u>Perfect Podcast Summaries Strategies & Case Studies for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-asus-maximus-x-hero-graphics-card-drivers/"><u>Step-by-Step Guide: Updating Your ASUS Maximus X Hero Graphics Card Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-role-of-chatgpts-default-features/"><u>The Role of ChatGPT's Default Features</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/which-video-sharing-giant-suits-your-content-best-igtv-or-youtube-analysis/"><u>Which Video-Sharing Giant Suits Your Content Best? - IGTV or YouTube Analysis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-joiner-to-trustee-securing-a-place-as-a-disco-partner/"><u>[New] In 2024, From Joiner to Trustee Securing a Place as a Disco Partner</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1-rapid-solutions-overcome-audio-capture-issues-in-audacity/"><u>1. Rapid Solutions: Overcome Audio Capture Issues in Audacity</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/conversion-gratuita-de-archivos-m4v-a-swf-mediante-la-herramienta-en-linea-de-movavi/"><u>Conversión Gratuita De Archivos M4V a SWF Mediante La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/conversion-gratuite-des-fichiers-m4a-en-m4b-sur-le-web-guide-par-movavi/"><u>Conversion Gratuite Des Fichiers M4A en M4B Sur Le Web - Guide Par Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-and-fixing-non-functional-delete-keys-on-windows/"><u>Finding and Fixing Non-Functional Delete Keys on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a14-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A14 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1726223795632-movavi-2024/"><u>Movavi วิเทจใจผูกคอย: 2024 มื้อน ถึง หลายปี</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1726220995439-movavi-aviogg/"><u>Movavi에서 제공하는 무료 AVI/OGG 영상 유형 교체기 - 인터넷을 통한 간소화된 이식 방법</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-reno-11-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Reno 11 5G Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-the-persistent-8007000e-error-during-windows-updates-easily/"><u>Troubleshoot and Solve the Persistent 8007000E Error During Windows Updates Easily</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-your-creativity-avi-editor-for-windows-8-with-advanced-features-for-2024/"><u>Unleash Your Creativity AVI Editor for Windows 8 with Advanced Features for 2024</u></a></li>
 </ul></div>
 
