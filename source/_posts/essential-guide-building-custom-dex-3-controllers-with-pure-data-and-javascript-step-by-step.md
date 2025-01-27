@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step"
-date: 2025-01-14T11:23:41.957Z
-updated: 2025-01-21T06:51:50.840Z
+date: 2025-01-22T02:20:25.190Z
+updated: 2025-01-27T08:55:57.673Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ DEX 3 and RED Mobile 3 Default DJ Controller scripts are stored in: App folder (
 [Download DEX 3 Actions And Notifications Documentation](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,18 +52,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/scripting-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>2024 Approved Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/drei-effektive-strategien-zur-lokalisierten-datensicherung-unter-windows-11/"><u>Drei Effektive Strategien Zur Lokalisierten Datensicherung Unter Windows 11</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/effacement-des-disques-amorcables-en-mode-installation-sous-les-systemes-windows-versions-11-10-8-et-7/"><u>Effacement Des Disques Amorçables en Mode Installation Sous Les Systèmes Windows (Versions 11, 10, 8 Et 7)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-magic-6-lite-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor Magic 6 Lite to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-filming-high-quality-camera-stabilizers-guide/"><u>In 2024, Precision in Filming High-Quality Camera Stabilizers Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/some-linux-distributions-also-offer-tools-like-startup-disk-creator-for-ubuntu-or-systemrescuecd-for-fedora-which-can-be-used-similarly-to-brasero-but-are-t187/"><u>Some Linux Distributions Also Offer Tools Like Startup Disk Creator for Ubuntu or SystemRescueCD for Fedora Which Can Be Used Similarly to Brasero but Are Tailored for Creating Boot Disks.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/star-wars-jedi-fallen-order-game-crashes-solutions-and-fixes-discovered/"><u>Star Wars Jedi: Fallen Order Game Crashes - Solutions and Fixes Discovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-comprehensive-guide-to-chatgpt-for-macos-users/"><u>The Comprehensive Guide to ChatGPT for macOS Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-essentials-android-must-improve-to-challenge-apples-ios-dominance-insights/"><u>Top 5 Essentials Android Must Improve to Challenge Apple's iOS Dominance: Insights</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/verborgene-instagram-bilder-finden-schritte-zum-wiederauffinden-verlorener-posts-auf-der-plattform/"><u>Verborgene Instagram-Bilder Finden - Schritte Zum Wiederauffinden Verlorener Posts Auf Der Plattform</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/windows-10115/"><u>Windows 10/11で自動的なリブートを止める方法：効果的な解決策5選</u></a></li>
-<li><a href="https://win-web.techidaily.com/yl-computings-ultimate-movie-folder-icon-set-enhance-your-digital-media-library/"><u>YL Computing's Ultimate Movie Folder Icon Set - Enhance Your Digital Media Library</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-behind-the-scenes-with-youtubes-payment-policies-for-creators/"><u>[Updated] 2024 Approved Behind the Scenes with YouTube's Payment Policies for Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-film-making-top-video-cameras/"><u>[Updated] 2024 Approved Mastering Film Making Top Video Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-spy-on-fb-chronicles-unseen/"><u>[Updated] 2024 Approved Spy on FB Chronicles, Unseen</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728472520354-windows-11/"><u>無煩惱地保存Windows 11隨機删除的文件：簡單四方法解析</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/a-complete-guide-on-utilizing-western-digital-recovery-software-effectively/"><u>A Complete Guide on Utilizing Western Digital Recovery Software Effectively</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comment-reprendre-le-controle-sur-lacces-de-votre-logiciel-a-vos-photos/"><u>Comment Reprendre Le Contrôle Sur L’Accès De Votre Logiciel À Vos Photos?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/corrective-steps-for-the-error-d3dx925dll-file-not-detected-in-your-system/"><u>Corrective Steps for the Error: d3dx9_25.dll File Not Detected in Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-troubleshooting-and-resolving-the-critical-stop-error-0x00000078-phase0exception/"><u>Expert Tips for Troubleshooting and Resolving the Critical STOP Error 0X00000078 (Phase0_Exception)</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/freie-software-fur-automatische-inkrementelle-datensicherung-auf-externe-hdd/"><u>Freie Software Für Automatische Inkrementelle Datensicherung Auf Externe HDD</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-safely-delete-your-windowsold-data-backup-in-windows-11-step-by-step-instructions/"><u>How to Safely Delete Your 'Windows.old' Data Backup in Windows 11 – Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-user-account-from-your-windows-10-pc-with-ease/"><u>Step-by-Step Guide: Removing a User Account From Your Windows 10 PC with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-making-excel-viewable-in-notepad/"><u>Strategies: Making Excel Viewable in Notepad</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726223948194-movavi/"><u>제공자 리소스를 사용하여 웹 네트워크에서 무료 일시 신원 맥락 전환 - Movavi</u></a></li>
 </ul></div>
 

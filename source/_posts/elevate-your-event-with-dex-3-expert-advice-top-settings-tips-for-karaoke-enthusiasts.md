@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Event with DEX 3 Expert Advice: Top Settings Tips for Karaoke Enthusiasts"
-date: 2025-01-17T18:16:55.092Z
-updated: 2025-01-20T18:36:45.875Z
+date: 2025-01-22T08:55:09.067Z
+updated: 2025-01-26T16:39:50.354Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Below you will find our suggested settings and configuration for using DEX 3 for
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suggestion Configuration for Hosting Karaoke with DEX 3
@@ -39,7 +39,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 karaoke mode](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke.jpg?fit=900%2C307&ssl=1 "DEX 3 karaoke mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. **Enable the Case player as the Filler Music Player:** Go into DEX 3’s options, under the Karaoke tab, and put a tick in the box for “use case/preview player as background/filler music player”. This will allow you to use the regular sidelist (not the Karaoke Rotation list) for automatic filler music playback. From the same Karaoke tab in options, you can also adjust the filler music volume level. Many customers prefer to lower the volume of the filler music player a few decibels so that playback is a bit quieter than when playing karaoke songs.
@@ -49,7 +49,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![Key Stepper DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke-keystepper.jpg?fit=900%2C307&ssl=1 "Key Stepper DEX 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. **Enable Detect Musical Key and Detect Automatic Gain:** Also located under the General tab in options, tick the boxes for both “Detect Musical Key” and “Detect Automatic Gain”. Detect Musical Key will allow DEX 3 to automatically calculate the musical key of the track (as well as a modified Camelot Scale key) of the track. Detect Automatic Gain will ensure DEX 3 plays all tracks at the same output gain level.
@@ -57,7 +57,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 musical key and gain](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-musicalkey-gain.jpg?fit=900%2C307&ssl=1 "DEX 3 musical key and gain")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. **Show Your Company Logo on Screen with Opacity:** Optional of course, but you can easily use DEX 3’s overlays feature to display your own logo at all times on screen with varied levels of opacity.
@@ -65,7 +65,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 That should assist you greatly with configuring DEX 3 for karaoke hosting purposes. Please review the following videos for additional help with all of the latest karaoke features added to DEX 3.11 (and up)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,20 +87,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/DEX3-config-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-exploring-snapseed-a-simple-guide-for-new-users/"><u>[New] 2024 Approved Exploring Snapseed A Simple Guide for New Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-learn-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>[Updated] Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-love-ballad-bingo-must-haves-on-the-list-of-proposals-for-2024/"><u>[Updated] Love Ballad Bingo Must-Haves on the List of Proposals for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/mp3wav/"><u>「MP3到WAV自由且高效的網路轉換法 | 夢畫」</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/complimentary-online-converter-transform-avi-files-to-mp4-with-moveavi/"><u>Complimentary Online Converter: Transform AVI Files to MP4 with MoveAVI</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/conversione-online-gratuitamente-di-pef-a-jpg-utilizzando-movavi-come-fare/"><u>Conversione Online Gratuitamente Di PEF a JPG Utilizzando Movavi - Come Fare!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/descargue-y-convierte-archivos-mkv-a-formato-webm-sin-coste-alguno-con-movavi-online/"><u>Descargue Y Convierte Archivos MKV a Formato WebM Sin Coste Alguno Con Movavi Online</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/essential-gear-for-your-macbook-pro-13-unboxing-and-evaluating-the-cost-effective-procase-case/"><u>Essential Gear for Your MacBook Pro 13: Unboxing & Evaluating The Cost-Effective ProCase Case</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/essential-steps-to-overcome-fb-video-transmission-failure-iosandroid-for-2024/"><u>Essential Steps to Overcome FB Video Transmission Failure (iOS/Android) for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-lava-blaze-2-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Lava Blaze 2 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-do-you-want-to-slow-down-your-videos-for-better-presentation-and-effect-read-this-guide-to-learn-how-to-user-windows-live-movie-maker-slow-motion-effect/"><u>New Do You Want to Slow Down Your Videos for Better Presentation and Effect? Read This Guide to Learn How to User Windows Live Movie Maker Slow Motion Effect</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/reviewing-the-omoton-t1-pro-stand-combining-cost-efficiency-with-strong-performance/"><u>Reviewing the Omoton T1 Pro-Stand: Combining Cost Efficiency with Strong Performance</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/transforma-archivos-de-gsm-en-formato-wav-sin-costo-alguno-convertidores-online-gratuito/"><u>Transforma Archivos De GSM en Formato WAV Sin Costo Alguno - Convertidores Online Gratuito</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/movaviwindows/"><u>ライセンス確認手順：MovaviソフトウェアにおけるWindowsユーザ向けのステップバイステップ</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-use-vlc-as-converter-to-convert-mp4-and-other-formats/"><u>[New] In 2024, How to Use VLC as Converter to Convert Mp4 and Other Formats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-gesture-tracking/"><u>[New] Mastering the Art of Gesture Tracking</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1-troubleshooting-your-non-printing-printer-expert-tips-from-yl-computing/"><u>1. Troubleshooting Your Non-Printing Printer: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>2024 Approved From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/beginners-guide-to-cryptocurrency-trading-insights-from-yl-computing-and-yl-software/"><u>Beginner's Guide to Cryptocurrency Trading: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-affordable-apple-watch-se-from-apple-inc/"><u>Comprehensive Review of the Affordable Apple Watch SE From Apple Inc</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/conversores-de-vanguardia-para-h265-y-hevc-en-mac-el-mejor-del-2023/"><u>Conversores De Vanguardia Para H.265 Y HEVC en Mac, El Mejor Del 2023</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effective-strategies-to-optimize-your-computers-ram-insights-from-yl-computing/"><u>Effective Strategies to Optimize Your Computer's RAM: Insights From YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/high-resolution-4k-background-wallpapers-and-imagery-premium-selection-by-yl-computing/"><u>High-Resolution 4K Background Wallpapers & Imagery - Premium Selection by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-how-to-see-your-subscribers-on-youtube/"><u>In 2024, How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-manage-multiple-youtube-channels-simultaneously/"><u>Is It Possible to Manage Multiple YouTube Channels Simultaneously?</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/navigate-graphics-card-hiccups-in-windows-like-a-pro-tips-from-yl-software-experts/"><u>Navigate Graphics Card Hiccups in Windows Like a Pro - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/page-unavailable-resolving-the-error-code-404/"><u>Page Unavailable: Resolving the Error Code 404</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/premium-tinker-bell-theme-wallpaper-packs-crystal-clear-hd-visuals-and-vibrant-imagery-by-yl-computing-solutions/"><u>Premium Tinker Bell Theme Wallpaper Packs: Crystal Clear HD Visuals and Vibrant Imagery by YL Computing Solutions</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/recognizing-startup-problems-in-your-pc-expert-tips-by-yl-software-solutions/"><u>Recognizing Startup Problems in Your PC: Expert Tips by YL Software Solutions</u></a></li>
 </ul></div>
 
