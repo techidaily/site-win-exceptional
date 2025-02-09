@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step"
-date: 2025-01-22T02:20:25.190Z
-updated: 2025-01-27T08:55:57.673Z
+date: 2025-02-01T22:37:46.615Z
+updated: 2025-02-09T00:14:02.676Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ DEX 3 and RED Mobile 3 Default DJ Controller scripts are stored in: App folder (
 [Download DEX 3 Actions And Notifications Documentation](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,18 +52,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/scripting-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-behind-the-scenes-with-youtubes-payment-policies-for-creators/"><u>[Updated] 2024 Approved Behind the Scenes with YouTube's Payment Policies for Creators</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-film-making-top-video-cameras/"><u>[Updated] 2024 Approved Mastering Film Making Top Video Cameras</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-spy-on-fb-chronicles-unseen/"><u>[Updated] 2024 Approved Spy on FB Chronicles, Unseen</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728472520354-windows-11/"><u>無煩惱地保存Windows 11隨機删除的文件：簡單四方法解析</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/a-complete-guide-on-utilizing-western-digital-recovery-software-effectively/"><u>A Complete Guide on Utilizing Western Digital Recovery Software Effectively</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/comment-reprendre-le-controle-sur-lacces-de-votre-logiciel-a-vos-photos/"><u>Comment Reprendre Le Contrôle Sur L’Accès De Votre Logiciel À Vos Photos?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/corrective-steps-for-the-error-d3dx925dll-file-not-detected-in-your-system/"><u>Corrective Steps for the Error: d3dx9_25.dll File Not Detected in Your System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-troubleshooting-and-resolving-the-critical-stop-error-0x00000078-phase0exception/"><u>Expert Tips for Troubleshooting and Resolving the Critical STOP Error 0X00000078 (Phase0_Exception)</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/freie-software-fur-automatische-inkrementelle-datensicherung-auf-externe-hdd/"><u>Freie Software Für Automatische Inkrementelle Datensicherung Auf Externe HDD</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-to-safely-delete-your-windowsold-data-backup-in-windows-11-step-by-step-instructions/"><u>How to Safely Delete Your 'Windows.old' Data Backup in Windows 11 – Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-user-account-from-your-windows-10-pc-with-ease/"><u>Step-by-Step Guide: Removing a User Account From Your Windows 10 PC with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-making-excel-viewable-in-notepad/"><u>Strategies: Making Excel Viewable in Notepad</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726223948194-movavi/"><u>제공자 리소스를 사용하여 웹 네트워크에서 무료 일시 신원 맥락 전환 - Movavi</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] 2024 Approved Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-guide-to-stories-mechanics/"><u>[Updated] Simplified Guide to Stories' Mechanics</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/avimpeg-4-convertifree/"><u>「オンラインで自由にAVIファイルをMPEG-4へ変換 – ConvertiFree」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722879315374-all-about-the-apple-iphone-release-join-us-for-a-sneak-peek-at-innovation/"><u>All About the Apple iPhone Release – Join Us for a Sneak Peek at Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-the-security-of-additional-chatgpt-tools-like-apps-and-extensions/"><u>Can You Trust the Security of Additional ChatGPT Tools Like Apps & Extensions?</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/disena-una-presentacion-musical-para-las-fiestas-con-nuestro-editor-de-diapositivas-tematica-de-diciembre-slideshow-christmas-maker/"><u>Diseña Una Presentación Musical Para Las Fiestas Con Nuestro Editor De Diapositivas Temática De Diciembre | Slideshow Christmas Maker</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/edit-your-images-like-a-pro-with-movavi-photo-editor-for-mac-get-instant-access-free-trial/"><u>Edit Your Images Like a Pro with Movavi Photo Editor for Mac: Get Instant Access - Free Trial!</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/free-online-mp3-converter-transform-mp3-files-into-asf-format-with-ease/"><u>Free Online MP3 Converter: Transform MP3 Files Into ASF Format with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-hot-30i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Hot 30i</u></a></li>
 </ul></div>
 
