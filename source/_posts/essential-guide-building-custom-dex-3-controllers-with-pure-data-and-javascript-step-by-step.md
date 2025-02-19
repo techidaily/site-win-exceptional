@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Building Custom DEX 3 Controllers with Pure Data & JavaScript - Step-by-Step"
-date: 2025-02-01T22:37:46.615Z
-updated: 2025-02-09T00:14:02.676Z
+date: 2025-02-17T00:47:01.581Z
+updated: 2025-02-18T23:28:24.425Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ DEX 3 and RED Mobile 3 Default DJ Controller scripts are stored in: App folder (
 [Download DEX 3 Actions And Notifications Documentation](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,15 +52,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/scripting-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] 2024 Approved Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplified-guide-to-stories-mechanics/"><u>[Updated] Simplified Guide to Stories' Mechanics</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/avimpeg-4-convertifree/"><u>「オンラインで自由にAVIファイルをMPEG-4へ変換 – ConvertiFree」</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722879315374-all-about-the-apple-iphone-release-join-us-for-a-sneak-peek-at-innovation/"><u>All About the Apple iPhone Release – Join Us for a Sneak Peek at Innovation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-trust-the-security-of-additional-chatgpt-tools-like-apps-and-extensions/"><u>Can You Trust the Security of Additional ChatGPT Tools Like Apps & Extensions?</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/disena-una-presentacion-musical-para-las-fiestas-con-nuestro-editor-de-diapositivas-tematica-de-diciembre-slideshow-christmas-maker/"><u>Diseña Una Presentación Musical Para Las Fiestas Con Nuestro Editor De Diapositivas Temática De Diciembre | Slideshow Christmas Maker</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/edit-your-images-like-a-pro-with-movavi-photo-editor-for-mac-get-instant-access-free-trial/"><u>Edit Your Images Like a Pro with Movavi Photo Editor for Mac: Get Instant Access - Free Trial!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/free-online-mp3-converter-transform-mp3-files-into-asf-format-with-ease/"><u>Free Online MP3 Converter: Transform MP3 Files Into ASF Format with Ease</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-hot-30i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Hot 30i</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-explore-twitter-videos-in-high-fidelity-format-for-2024/"><u>[New] Explore Twitter Videos in High Fidelity Format for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tech-driven-transformation-the-upcoming-shifts-in-fb-advertising/"><u>[Updated] 2024 Approved Tech-Driven Transformation The Upcoming Shifts in FB Advertising</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-images-to-instagram-made-simple/"><u>[Updated] Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-video-thumbnails-for-youtube/"><u>[Updated] How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>[Updated] Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-ultimate-selection-of-magsafe-battery-packs-in-depth-analysis-and-ratings-from-industry-authorities-zdnet/"><u>2024'S Ultimate Selection of MagSafe Battery Packs: In-Depth Analysis and Ratings From Industry Authorities | ZDNET</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728471487126-word/"><u>解决 Word 保存后数据无法看到：精心步骤指南</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728490920814-sd/"><u>维修通知：SD卡中的数据有效地转移到计算机</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/datenschutz-gewahrleistet-perfektes-klonen-von-speicherkarten-mit-dem-klonen-ohne-datenverlust/"><u>Datenschutz Gewährleistet - Perfektes Klonen Von Speicherkarten Mit Dem Klonen Ohne Datenverlust</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/download-gratuito-disco-de-particionamento-do-linux-com-aomei-backupper-para-sistemas-livres/"><u>Download Gratuito: Disco De Particionamento Do Linux Com AOMEI Backupper Para Sistemas Livres</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/eleccion-experta-para-clonar-ssd-m2-nvme-las-dos-soluciones-top-para-su-almacenamiento-optimo/"><u>Elección Experta Para Clonar SSD M.ˈ2 NVMe: Las Dos Soluciones Top Para Su Almacenamiento Óptimo</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/mastering-nas-backup-strategies-discover-the-optimal-approach-for-secure-data-management/"><u>Mastering NAS Backup Strategies: Discover the Optimal Approach for Secure Data Management</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/section-3c-qandas-on-ocular-pathophysiology/"><u>Section 3C: Q&As on Ocular Pathophysiology</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/simple-guide-storing-multiple-email-contacts-at-once-in-microsoft-outlook/"><u>Simple Guide: Storing Multiple Email Contacts at Once in Microsoft Outlook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lighting-solutions-for-video-broadcasts-industry-approved-reviews-techinsight/"><u>Top Lighting Solutions for Video Broadcasts: Industry-Approved Reviews | TechInsight</u></a></li>
+<li><a href="https://win-lab.techidaily.com/troubleshoot-and-fix-a-damaged-gpu-in-windows-pcs-with-professional-advice-from-yl-technologies/"><u>Troubleshoot and Fix a Damaged GPU in Windows PCs with Professional Advice From YL Technologies</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/usb-flash-drive-data-recovery-success-how-to-restore-and-identify-files/"><u>USB Flash Drive Data Recovery Success: How to Restore and Identify Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/when-is-your-mailcu-email-address-at-risk-of-termination-comprehensive-guide/"><u>When Is Your mail.cu Email Address at Risk of Termination – Comprehensive Guide.</u></a></li>
 </ul></div>
 
