@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Event with DEX 3 Expert Advice: Top Settings Tips for Karaoke Enthusiasts"
-date: 2025-02-17T21:05:48.194Z
-updated: 2025-02-18T23:24:26.066Z
+date: 2025-03-01T22:13:49.225Z
+updated: 2025-03-07T16:47:54.858Z
 tags:
   - product
 categories:
@@ -24,10 +24,6 @@ Below you will find our suggested settings and configuration for using DEX 3 for
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion Configuration for Hosting Karaoke with DEX 3
 
 1\. **Setting Up Screen Two for Video-Only (Lyrics) Output:** Watch this quick tutorial video on configuring screen two for “extended display mode’ so you can send the lyrics-only to the singer’s screen.
@@ -38,35 +34,19 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 
 ![DEX 3 karaoke mode](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke.jpg?fit=900%2C307&ssl=1 "DEX 3 karaoke mode")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. **Enable the Case player as the Filler Music Player:** Go into DEX 3’s options, under the Karaoke tab, and put a tick in the box for “use case/preview player as background/filler music player”. This will allow you to use the regular sidelist (not the Karaoke Rotation list) for automatic filler music playback. From the same Karaoke tab in options, you can also adjust the filler music volume level. Many customers prefer to lower the volume of the filler music player a few decibels so that playback is a bit quieter than when playing karaoke songs.
 
 4\. **Enable High-Quality Time Stretching:** In order for DEX 3’s key stepper to function, you need to enable “High Quality Time Stretching” in options under the General Tab. Then the key stepper up/down arrow buttons located in each of DEX 3’s decks (near the tempo slider) will allow you to adjust key (you can also choose the size increments of the semitone key steps under the General tab in options, look for the key slider on the right bottom side of the General tab).
 
 ![Key Stepper DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke-keystepper.jpg?fit=900%2C307&ssl=1 "Key Stepper DEX 3")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5\. **Enable Detect Musical Key and Detect Automatic Gain:** Also located under the General tab in options, tick the boxes for both “Detect Musical Key” and “Detect Automatic Gain”. Detect Musical Key will allow DEX 3 to automatically calculate the musical key of the track (as well as a modified Camelot Scale key) of the track. Detect Automatic Gain will ensure DEX 3 plays all tracks at the same output gain level.
 
 ![DEX 3 musical key and gain](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-musicalkey-gain.jpg?fit=900%2C307&ssl=1 "DEX 3 musical key and gain")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6\. **Show Your Company Logo on Screen with Opacity:** Optional of course, but you can easily use DEX 3’s overlays feature to display your own logo at all times on screen with varied levels of opacity.
 
 That should assist you greatly with configuring DEX 3 for karaoke hosting purposes. Please review the following videos for additional help with all of the latest karaoke features added to DEX 3.11 (and up)!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -87,17 +67,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/DEX3-config-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-golden-grounds-guided-the-finest-treasure-maps/"><u>[New] 2024 Approved Golden Grounds Guided The Finest Treasure Maps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/"><u>[New] In 2024, Comparing Bites New Insights on Hero5 & Yi 4K Cameras</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elevate-your-content-premier-youtube-rank-tracker-apps-for-2024/"><u>[Updated] Elevate Your Content Premier YouTube Rank Tracker Apps for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-free-screen-recorder-for-androids-seamless-use/"><u>[Updated] In 2024, Free Screen Recorder for Android's Seamless Use</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-youtube-phenomenon-forecast/"><u>[Updated] YouTube Phenomenon Forecast</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/best-online-destinations-for-enjoying-chinese-animated-series-a-guide-to-6-top-sites/"><u>Best Online Destinations for Enjoying Chinese Animated Series: A Guide to 6 Top Sites</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capturing-moments-tips-for-effective-logitech-cam-use/"><u>Capturing Moments Tips for Effective Logitech Cam Use</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/diy-smartphone-notifications-crafting-unique-ringtones-for-iphones-and-android-devices/"><u>DIY Smartphone Notifications: Crafting Unique Ringtones for iPhones & Android Devices</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/dvd-chapters/"><u>DVD Chaptersを整理・編集して簡単な視聴体験へ</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/easy-tutorial-on-integrating-gif-images-into-powerpoint-slides-for-engaging-presentations/"><u>Easy Tutorial on Integrating GIF Images Into PowerPoint Slides for Engaging Presentations</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/navigate-email-campaign-success-discover-our-ultimate-list-of-terminology-tips-and-extras-by-massmail-experts/"><u>Navigate Email Campaign Success: Discover Our Ultimate List of Terminology, Tips, and Extras by MassMail Experts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-4k-footage-to-full-hd-on-macpc/"><u>Step-by-Step Guide: Converting 4K Footage to Full HD on Mac/PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-10-screen-recorders-for-youtube-for-2024/"><u>[New] Best 10 Screen Recorders for YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-affordable-aaa-gaming-websites-and-streaming-services/"><u>[New] In 2024, Affordable AAA Gaming Websites and Streaming Services</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-essential-tips-for-discarding-unwanted-youtube-files/"><u>[Updated] 2024 Approved The Essential Tips for Discarding Unwanted YouTube Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-x-professional-studio-for-windows-for-2024/"><u>[Updated] X-Professional Studio for Windows for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1-steps-to-updating-your-pcs-audio-hardware-a-comprehensive-guide-yl-technologies/"><u>1. Steps to Updating Your PC's Audio Hardware: A Comprehensive Guide - YL Technologies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>2024 Approved Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/checking-the-functionality-of-your-network-adapter-insights-from-yl-computing-and-software-solutions/"><u>Checking the Functionality of Your Network Adapter - Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cultivating-a-brand-identity-youtube-visibility-without-spending/"><u>Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/detecting-printer-hardware-faults-quickly-and-easily-by-yl-software/"><u>Detecting Printer Hardware Faults Quickly and Easily by YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/discover-iphone-11-captivating-wallpaper-collections-by-yl-computing-expert-in-seo-solutions/"><u>Discover iPhone 11 Captivating Wallpaper Collections by YL Computing – Expert in SEO Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/leading-live-tv-streams-combo-of-global-and-locals-for-2024/"><u>Leading Live TV Streams Combo of Global and Locals for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/stunning-nature-inspired-wallpapers-and-backgrounds-by-yl-computing-your-next-digital-inspiration/"><u>Stunning Nature-Inspired Wallpapers & Backgrounds by YL Computing - Your Next Digital Inspiration</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/tailoring-your-system-preferences-using-mypower-tools-from-yl-computing/"><u>Tailoring Your System Preferences Using MyPower Tools From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211446011--the-kriya-serpent-yogi/"><u>The Kriya Serpent Yogi | Free Book</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/the-top-10-insights-exclusive-to-professional-djs-discover-the-secrets-with-pcdj/"><u>The Top 10 Insights Exclusive to Professional DJs - Discover the Secrets with PCDJ</u></a></li>
 </ul></div>
 

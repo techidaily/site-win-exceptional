@@ -1,7 +1,7 @@
 ---
 title: Recuperating Deleted Photos and Documents on SD Memory - Mastering Recuva's Features
-date: 2025-02-15T02:35:48.826Z
-updated: 2025-02-19T08:51:46.322Z
+date: 2025-03-03T22:00:37.361Z
+updated: 2025-03-07T18:11:06.286Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d4308cac3ac9d4efb24f911715.jpg
@@ -27,10 +27,6 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -81,10 +77,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 4\. Finally, click **OK** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Restore Image with Norton Ghost
 
 Click **Recover My Files** if you want to recover files or folder, or **Recover My Computer** to make it.
@@ -105,10 +97,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 ### Clone Disk with Norton Ghost
@@ -118,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -154,17 +138,9 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
@@ -181,20 +157,12 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -214,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -269,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -298,22 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-expert-pro-gopro-filming-made-easy/"><u>[New] From Novice to Expert Pro Gopro Filming Made Easy</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1726223550088-png/"><u>網路上免費改變格式的PNG圖片 - 移動瓦維</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/conversao-simplificada-converta-gravadoras-de-disco-e-dvds-de-filmes-em-formatos-gratuitos-mp4-com-apps-faceis-de-uso/"><u>Conversão Simplificada: Converta Gravadoras De Disco E DVDs De Filmes Em Formatos Gratuitos MP4 Com Apps Fáceis De Uso</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167382104-free-isnt-always-best-explore-these-5-reasons-to-pay-up/"><u>Free Isn't Always Best: Explore These 5 Reasons to Pay Up!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/gratis-weergave-wegwijzer-om-online-wma-bestandjes-naar-m4v-format-te-zetten-movavi/"><u>Gratis Weergave: Wegwijzer Om Online WMA-Bestandjes Naar M4V-Format Te Zetten - Movavi</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/guia-completa-de-metodos-de-pago-en-movavi/"><u>Guía Completa De Métodos De Pago en Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-20c-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 20C to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-gionee-f3-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Gionee F3 Pro Is Unlocked</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/movavi-gratis-transformar-suas-fotos-jpeg-em-formato-png-diretamente-no-web/"><u>Movavi Gratis: Transformar Suas Fotos JPEG Em Formato PNG Diretamente No Web!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/online-free-mka-to-flac-audio-format-converted-by-movavi/"><u>Online Free MKA to FLAC Audio Format Converted by Movavi</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/online-mpe-wav-audio-file-transformation-no-cost-solution-by-soundmaster-tools/"><u>Online MPE-WAV Audio File Transformation - No Cost Solution by SoundMaster Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-guide-hp-envy-5540-driver-downloads-updates-and-installation/"><u>Simple Guide: HP Envy 5540 Driver Downloads, Updates & Installation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-apple-watch-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Apple Watch Models : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/transformer-gratuitement-un-fichier-qti-en-format-mp3-sur-internet-guide-dutilisation-de-movavi/"><u>Transformer Gratuitement Un Fichier .qti en Format MP3 Sur Internet - Guide D'utilisation De Movavi</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-your-creative-potential-style-and-niche/"><u>Unlocking Your Creative Potential Style & Niche</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-mobileweb-image-magnification-toolkit-for-2024/"><u>Unmatched Mobile/Web Image Magnification Toolkit for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>Behind-the-Scenes Top Storytelling Channels on YT, 2023</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/captura-de-pantalla-gratis-como-el-sapo-los-17-mejores-programas-recomendados-por-movavi-para-2024/"><u>Captura De Pantalla Gratis Como El Sapo - Los 17 Mejores Programas Recomendados Por Movavi Para 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-a60s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel A60s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/explore-the-best-gopro-editing-tools-a-comprehensive-list-of-13-leading-video-editors-for-action-cams/"><u>Explore the Best GoPro Editing Tools: A Comprehensive List of 13 Leading Video Editors for Action Cams</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/free-online-conversion-of-flv-to-flac-by-movavi-start-today/"><u>Free Online Conversion of FLV to FLAC by Movavi - Start Today</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/free-online-converter-switch-from-aiff-to-aac-format-with-ease-movavi/"><u>Free Online Converter: Switch From AIFF to AAC Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/free-wmv-to-avi-converter-online-effortless-media-format-transformation-with-movavi/"><u>Free WMV to AVI Converter Online - Effortless Media Format Transformation with Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-13-proplus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 13 Pro+ 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-nord-n30-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus Nord N30 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>In 2024, Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-easy-guide-to-taking-and-saving-twitters-gifs/"><u>In 2024, The Easy Guide to Taking and Saving Twitter's Gifs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comedy-codex-a-practical-tutorial-for-gif-creation-for-2024/"><u>The Comedy Codex A Practical Tutorial for GIF Creation for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/top-10-gestionnaires-de-conversion-dimages-gratuit-les-plus-performants-pour-2024-movavi/"><u>Top 10 Gestionnaires De Conversion D'Images Gratuit Les Plus Performants Pour 2024 - Movavi</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/transforme-seus-arquivos-swf-em-mp3-sem-custo-com-o-conversor-online-do-movavi/"><u>Transforme Seus Arquivos SWF Em MP3 Sem Custo Com O Conversor Online Do Movavi</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/troubleshooting-and-repairing-video-problems-on-your-kindle-fire-a-step-by-step-guide/"><u>Troubleshooting and Repairing Video Problems on Your Kindle Fire: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-gathering-insights-on-latest-developments-and-speculations/"><u>Upcoming Google Gathering: Insights on Latest Developments & Speculations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/vr-innovations-unwrapped-top-peripherals-spotlight/"><u>VR Innovations Unwrapped - Top Peripherals Spotlight</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/wavitunes-mp3/"><u>WAVに直すiTunes MP3音楽ファイルの変換ガイド</u></a></li>
 </ul></div>
 

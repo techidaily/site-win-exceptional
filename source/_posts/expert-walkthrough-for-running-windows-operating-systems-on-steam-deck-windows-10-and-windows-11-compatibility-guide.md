@@ -1,7 +1,7 @@
 ---
 title: Expert Walkthrough for Running Windows Operating Systems on Steam Deck - Windows 10 & Windows 11 Compatibility Guide
-date: 2025-02-16T23:49:07.555Z
-updated: 2025-02-18T20:40:20.047Z
+date: 2025-03-03T20:13:26.085Z
+updated: 2025-03-07T22:32:29.833Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f640c5b81b3310074251149c70.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -89,25 +81,13 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,24 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-chortlechaos-dive-deep-into-meme-genesis/"><u>[New] 2024 Approved ChortleChaos Dive Deep Into Meme Genesis</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ace-the-art-of-editing-say-goodbye-to-overflowing-tiktok-drafts-for-2024/"><u>[New] Ace the Art of Editing Say Goodbye to Overflowing TikTok Drafts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-checklist-for-zoom-recording-for-2024/"><u>[New] The Ultimate Checklist for Zoom Recording for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-handle-accidental-reflections-in-video-conversations-for-2024/"><u>[Updated] How To Handle Accidental Reflections in Video Conversations for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/a-new-eras-masters-unveiling-the-best-6-in-nft-creation-for-2024/"><u>A New Era's Masters Unveiling the Best 6 in NFT Creation for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-top-7-note-taking-tools-on-apples-tablets-ipads-and-ipad-pro/"><u>Explore Our Selection of Top 7 Note-Taking Tools on Apple's Tablets: IPads and iPad Pro</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-camon-20-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Camon 20 Pro 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/is-it-possible-to-clean-up-your-windows-registry-expert-tips-and-tricks/"><u>Is It Possible To Clean Up Your Windows Registry? Expert Tips And Tricks</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/resolving-graphic-card-malfunctions-expert-tips-and-steps-yl-computing/"><u>Resolving Graphic Card Malfunctions: Expert Tips & Steps - YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/resolving-windows-software-conflicts-expert-advice-from-yl-computing/"><u>Resolving Windows Software Conflicts: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/restrictive-covenant-conundrums-in-the-smith-vs-jones-dispute-balancing-historical-precedents-with-modern-neighborhood-design/"><u>Restrictive Covenant Conundrums in the Smith Vs. Jones Dispute: Balancing Historical Precedents with Modern Neighborhood Design</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-to-adjusting-your-lan-setup-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide to Adjusting Your LAN Setup via Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/the-ultimate-guide-to-crypto-asset-management-using-innovative-services-and-solutions-by-yl-software/"><u>The Ultimate Guide to Crypto Asset Management Using Innovative Services and Solutions by YL Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-travel-blogs-on-youtube-for-2024/"><u>The Ultimate Guide to Travel Blogs on Youtube for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/troubleshoot-and-restore-malfunctioning-hardware-in-windows-with-expert-advice-from-yl-computings-software-experts/"><u>Troubleshoot and Restore Malfunctioning Hardware in Windows with Expert Advice From YL Computing's Software Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshooting-guide-fixing-keepvid-issues-and-enhancing-download-performance-on-macos-big-sur/"><u>Troubleshooting Guide: Fixing KeepVid Issues & Enhancing Download Performance on macOS Big Sur</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-causes-of-your-gpu-malfunction-insights-from-yl-computing/"><u>Understanding the Causes of Your GPU Malfunction: Insights From YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-root-of-audio-device-malfunctions-a-deep-dive-by-yl-computing/"><u>Understanding the Root of Audio Device Malfunctions: A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/wiederholte-wiederherstellung-von-itunes-backup-auf-ihrem-neuen-iphone-14-13-12-oder-11/"><u>Wiederholte Wiederherstellung Von iTunes Backup Auf Ihrem Neuen iPhone 14, 13, 12 Oder 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-game-record-on-windows-10-top-5-tips-for-2024/"><u>[New] Mastering Game Record on Windows 10 Top 5 Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-alert-issued-by-american-airlines-crew-raises-concerns-among-passengers-read-more-on-zdnet/"><u>Critical Alert Issued by American Airlines Crew Raises Concerns Among Passengers - Read More on ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715860557230-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series-for-2024/"><u>Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series. For 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhanced-reliability-with-netgear-nighthawk-x6s-top-wifi-range-extender/"><u>Enhanced Reliability with Netgear Nighthawk X6S - Top WiFi Range Extender</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guida-completa-a-tre-metodi-di-salvataggio-dei-dati-computer-utilizzando-chiavette-usb-sata-tutti-i-marchi/"><u>Guida Completa a Tre Metodi Di Salvataggio Dei Dati Computer Utilizzando Chiavette USB SATA (Tutti I Marchi)</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-access-and-restore-your-old-aol-mail-account-data-efficiently/"><u>How to Access and Restore Your Old AOL Mail Account Data Efficiently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cyberspace-screenplays-virtual-movie-journeys/"><u>In 2024, Cyberspace Screenplays Virtual Movie Journeys</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-insight-discovering-6-realistic-examples/"><u>In 2024, Metaverse Insight Discovering 6 Realistic Examples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-future-of-laptop-design-my-immersive-encounter-with-lenovos-auto-swiveling-innovation-at-ifa-2023-a-visual-marvel-cnet/"><u>Inside the Future of Laptop Design: My Immersive Encounter with Lenovo's Auto-Swiveling Innovation at IFA 2023, a Visual Marvel | CNET</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/overcoming-the-0x20003-barrier-a-comprehensive-guide-to-fixing-windows-1110-setup-issues-7-key-fixes/"><u>Overcoming the 0X20003 Barrier: A Comprehensive Guide to Fixing Windows 11/10 Setup Issues (7 Key Fixes)</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/recuperating-deleted-photos-and-documents-on-sd-memory-mastering-recuvas-features/"><u>Recuperating Deleted Photos and Documents on SD Memory - Mastering Recuva's Features</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/resolving-keyvalue-deserialization-failure-in-data-partition-detailed-guide/"><u>Resolving 'KeyValue Deserialization Failure in Data Partition': Detailed Guide</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/resurrecting-gone-astray-folders-in-windows-pertinent-deletion-a-quadruple-approach-for-retrieval-success/"><u>Resurrecting Gone-Astray Folders in Windows Pertinent Deletion: A Quadruple Approach for Retrieval Success</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/troubleshoot-itunes-mishap-fix-error-0xe80000a-on-various-windows-os-effortlessly/"><u>Troubleshoot ITunes Mishap - Fix Error 0xE80000A on Various Windows OS Effortlessly</u></a></li>
 </ul></div>
 
